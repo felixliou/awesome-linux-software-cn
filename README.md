@@ -101,12 +101,12 @@
 
 
 ### 数据备份与恢复
-- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
-- [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory. ![Freeware][Freeware Icon]
-- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver is a GUI for the program fsarchiver to save/restore partitions, folders and MBR/GPT. The programm is for systems based Debian, for Suse and Fedora. [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
-- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd is a Linux system rescue disk available as a bootable CD-ROM or USB stick for administrating or repairing your system and data after a crash. ![Freeware][Freeware Icon]
-- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software. ![Freeware][Freeware Icon]
-- [Timeshift](https://launchpad.net/timeshift) - TimeShift is a system restore utility which takes incremental snapshots of the system using rsync and hard-links. These snapshots can be restored at a later date to undo all changes that were made to the system after the snapshot was taken. Snapshots can be taken manually or at regular intervals using scheduled jobs.![Freeware][Freeware Icon]
+- [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - 一个很棒的数据备份工具。[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
+- [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 是一款文件数据恢复软件，旨在恢复各种丢失的文件，包括来自硬盘的视频、文档和归档以及来自数码相机存储器丢失的照片（因此，照片恢复（Photo Recovery）即为应用的名称）。![Freeware][Freeware Icon]
+- [Qt4-fsarchiver](https://sourceforge.net/projects/qt4-fsarchiver/) - qt4-fsarchiver 是 fsarchiver 程序的 GUI 前端，它用来保存/恢复分区、文件夹和 MRB/GTP。该应用程序可以在基于 Debian 的系统以及 Suse 和 Fedora 上运行。[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/) ![Freeware][Freeware Icon]
+- [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd 是一个 Linux 系统救援盘，可以是可引导的 CD-ROM 或者 USB 棒，可以用它来做系统管理或者在系统崩溃后进行修复。 ![Freeware][Freeware Icon]
+- [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大而又免费的数据恢复软件！它的主要目的就是当由于软件故障而导致某些问题发生时，帮助恢复丢失的分区并且/或者让非启动盘再次可引导。![Freeware][Freeware Icon]
+- [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一个系统恢复实用工具，它使用 rsync 和硬链接（hard-link）为系统做增量快照。我们可以在日后恢复这些快照，从而撤销所有在快照后所做的任何修改。我们可以手动或者使用调度任务每隔一段时间自动生成快照。![Freeware][Freeware Icon]
 
 ### 桌面定制
 - [Adapta Theme](https://github.com/tista500/Adapta) - An adaptive Gtk+ theme based on Material Design Guidelines. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
