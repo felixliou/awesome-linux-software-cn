@@ -1,6 +1,6 @@
 # Linux 软件资源大全中文版
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VoLuong/Awesome-Ubuntu-Linux)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChrisLeeGit/awesome-linux-software-cn)
 
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
@@ -109,7 +109,7 @@
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一个系统恢复实用工具，它使用 rsync 和硬链接（hard-link）为系统做增量快照。我们可以在日后恢复这些快照，从而撤销所有在快照后所做的任何修改。我们可以手动或者使用调度任务每隔一段时间自动生成快照。![Freeware][Freeware Icon]
 
 ### 桌面定制
-- [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，基于 Google Material 设计风格 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，基于 Google Material 设计风格。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Arc Icon Theme](https://github.com/horst3180/arc-icon-theme) - 一个现代化的图标主题，它应当与 Moka 图标主题一起使用。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Arc Theme](https://github.com/horst3180/arc-theme) - 一款扁平化带有透明元素的主题。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Compiz Config 设置管理器](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - OpenCompositing 项目将 3D 桌面视觉效果带到了 X 视窗系统（X Window System）中，它提升了 X 视窗系统的可用性并且提升了生产力。![Freeware][Freeware Icon]
@@ -127,14 +127,14 @@
 - [Yosembiance theme](https://github.com/bsundman/Yosembiance) - 一款改进的 Ambiance 主题（松散的），灵感来源于 OS X Yosemite。[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Yosembiance) ![Freeware][Freeware Icon]
 
 ### 开发
-- [Android studio](https://developer.android.com/studio/index.html) -The Official IDE for Android : Android Studio provides the fastest tools for building apps on every type of Android device.![Freeware][Freeware Icon]
-- [Aptana](http://www.aptana.com/) - Aptana Studio harnesses the flexibility of Eclipse and focuses it into a powerful web development engine.![Freeware][Freeware Icon]
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. ![Freeware][Freeware Icon]
-- [BlueJ](http://bluej.org/) - A free Java Development Environment designed for beginners, used by millions worldwide.![Freeware][Freeware Icon]
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. ![Freeware][Freeware Icon]
-- [Clion](https://www.jetbrains.com/clion/) - A cross-platform and powerful IDE for C and C++.
-- [Codelite](http://codelite.org/) - A Free, open source, cross platform C,C++,PHP and Node.js IDE. ![Freeware][Freeware Icon]
-- [Eclipse](https://eclipse.org/ide/) - Eclipse is famous for our Java Integrated Development Environment (IDE), but our C/C++ IDE and PHP IDE are pretty cool too![Freeware][Freeware Icon]
+- [Android studio](https://developer.android.com/studio/index.html) -安卓官方集成开发环境（IDE）：Android Studio 提供了用于在各种类型的安卓设备上构建应用的极速工具。![Freeware][Freeware Icon]
+- [Aptana](http://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性，并且专注于将它集成到一个强大的 web 开发引擎中。![Freeware][Freeware Icon]
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源 Arduino 软件（IDE）可以非常方便地编写代码并将它们上传到开发板中。![Freeware][Freeware Icon]
+- [BlueJ](http://bluej.org/) - 为初学者设计的免费 Java 开发环境，全世界有数百万人都在使用它。![Freeware][Freeware Icon]
+- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是免费的 C, C++ 和 Fortran 集成开发环境，它可以满足开发者非常苛刻的需求。它被设计为具有很好的扩展性以及完全可配置。![Freeware][Freeware Icon]
+- [Clion](https://www.jetbrains.com/clion/) - 专门为 C 和 C++ 打造的跨平台、强大的集成开发环境。
+- [Codelite](http://codelite.org/) - 一个免费、开源、跨平台的 C, C++, PHP 和 Node.js 集成开发环境。![Freeware][Freeware Icon]
+- [Eclipse](https://eclipse.org/ide/) - Eclipse 是著名的 Java 集成开发环境，但是 C/C++ 以及 PHP 版本的 Eclipse 也同样非常棒。![Freeware][Freeware Icon]
 - [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.![Freeware][Freeware Icon]
