@@ -9,6 +9,8 @@
 
 中文版依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
+本文档已使用 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
+
 
 ## 目录
 
