@@ -502,18 +502,18 @@
 
 ### Ubuntu
 
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux term](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [How to dual-boot Ubuntu with Windows](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [What to do after installing ubuntu](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [Linux 是什么](https://www.linux.com/what-is-linux)
+- [基本 Linux 术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
+- [Ubuntu 是什么](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [Windows 与 Ubuntu 如何多重引导](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [安装 Ubuntu 后你该做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 
 ### Arch Linux
-- [Beginners' guide](https://wiki.archlinux.org/index.php/Beginners%27_guide)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
+- [入门指南](https://wiki.archlinux.org/index.php/Beginners%27_guide)
+- [安装指南](https://wiki.archlinux.org/index.php/Installation_guide)
+- [一般建议](https://wiki.archlinux.org/index.php/General_recommendations)
+- [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
 ### 其它发行版
 
@@ -529,8 +529,8 @@
 
 ### Arch Linux
 
-* [Arch Linux Forums](https://bbs.archlinux.org/)
-* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
+* [Arch Linux 论坛](https://bbs.archlinux.org/)
+* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
 ### IRC 频道
 
@@ -540,7 +540,7 @@
 
 * [OMG!Ubuntu](http://www.omgubuntu.co.uk/)
 * [ITSFOSS](https://itsfoss.com/)
-* [Linux official](https://www.linux.com/)
+* [Linux 官网](https://www.linux.com/)
 * [Webupd8](http://www.webupd8.org/)
 * [Noobslab](http://www.noobslab.com/)
 * [Make use of](http://www.makeuseof.com/service/linux/)
@@ -560,29 +560,29 @@
 * [Ubuntu](https://www.reddit.com/r/Ubuntu/)
 * [Arch Linux](https://www.reddit.com/r/archlinux/)
 * [Linux](https://www.reddit.com/r/linux/)
-* [Open Source](https://www.reddit.com/r/opensource/)
+* [开源](https://www.reddit.com/r/opensource/)
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
-* [Linux Kernel](https://www.reddit.com/r/kernel/)
-* [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
+* [Linux 内核](https://www.reddit.com/r/kernel/)
+* [Linux 游戏](https://www.reddit.com/r/linux_gaming/)
 
 ## Linux 学习
 
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
-- [Linus Pocket Guide](http://www.opencore.eesc.usp.br/bruno/livros/Linux_Pocket_Guide.pdf)
-- [Linux Command Line with Bash - Tek Linux](https://www.youtube.com/watch?v=ltjPIpilqow)
+- [学习 Linux 命令行](http://linuxcommand.org/)
+- [GNU/Linux 命令行工具总结](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
+- [学习 Linux](https://linuxjourney.com/)
+- [Linux 课程](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Linus 袋装指南](http://www.opencore.eesc.usp.br/bruno/livros/Linux_Pocket_Guide.pdf)
+- [Linux 命令行与 Bash - Tek Linux](https://www.youtube.com/watch?v=ltjPIpilqow)
 
 ## Linux Hacking 或开发
 
-- [Kernel Newbies](https://kernelnewbies.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF)](http://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
+- [内核初学者](https://kernelnewbies.org/)
+- [深入 Linux](https://0xax.gitbooks.io/linux-insides/content/index.html)
+- [Linux 内核](http://www.tldp.org/LDP/tlk/tlk.html)
+- [Linux 内核归档（官方网站）](https://www.kernel.org/)
+- [Linux 内核内部（PDF）](http://www.tldp.org/LDP/lki/lki.pdf)
+- [Linux 内核邮件列表归档](https://lkml.org/)
+- [Linux 内核模块编程指南（PDF）](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## 贡献
 1. **校对**：你可以参考原文档 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)，帮助校对翻译。比如，你可以在 [issues](https://github.com/ChrisLeeGit/awesome-linux-software-cn/issues) 中提出改进后的翻译结果；或者，你也可以 Fork 到自己的仓库，进行校对和修改，然后提交 Pull Request。
