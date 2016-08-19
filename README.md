@@ -86,18 +86,18 @@
 - [Tomahawk](https://www.tomahawk-player.org/) -一种全新的音乐播放器，它将你所有的数据流、下载、云音乐存储、播放列表、电台等集结在一起。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 
 ### 聊天客户端
-- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - open source web wrapper for Skype. [![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
-- [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
-- [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android. [![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
-- [Messenger for Desktop](https://messengerfordesktop.com/#download) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
-- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - A universal chat client. ![Freeware][Freeware Icon]
-- [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities. [![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
-- [ScudCloud](https://github.com/raelgc/scudcloud/) - A Slack-client for linux. [![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
-- [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free. ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
-- [Viber](https://www.viber.com/en/products/linux) -Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country ![Freeware][Freeware Icon]
-- [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client .[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
-- [Whatsie](https://github.com/Aluxian/Whatsie) - Whatsapp unofficial client for ubuntu/linux. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
+- [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - 包装了 web Skype 的开源应用。[![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
+- [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但与 XChat 不同的是，它在 Windows 和类 Unix 系统上是完全免费的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
+- [Jitsi](https://jitsi.org/) - Jitsi 是一款针对 Windows、Linux、Mac OS X 和 Android 的免费开源的多平台音频、视频会议和即时通讯应用。[![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](https://messengerfordesktop.com/#download) - Facebook messenger 应用。[![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Pidgin](http://askubuntu.com/questions/307622/update-pidgin-using-apt-get) - 一款通用的聊天客户端。![Freeware][Freeware Icon]
+- [qTox](https://qtox.github.io/) - 一款简单的分布式、安全的通讯程序，支持音频和视频聊天。[![Open-Source Software][OSS Icon]](https://github.com/qTox/qTox) ![Freeware][Freeware Icon]
+- [ScudCloud](https://github.com/raelgc/scudcloud/) - Linux 平台下 Slack 客户端。[![Open-Source Software][OSS Icon]](https://github.com/raelgc/scudcloud/) ![Freeware][Freeware Icon]
+- [Skype](https://www.skype.com/en/) -Skype 让世界各地的人免费交谈。 ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - 一款专注于速度和安全的消息通讯应用，极速、简洁并且免费。[![Open-Source Software][OSS Icon]](https://github.com/telegramdesktop/tdesktop) ![Freeware][Freeware Icon]
+- [Viber](https://www.viber.com/en/products/linux) -Linux 版本的 Viber 能让你向使用任何设备、任何网络，位于任何国家的其他 Viber 用户发送免费消息以及拨打免费电话。![Freeware][Freeware Icon]
+- [Weechat](https://weechat.org/) - WeeChat 是一款快速、轻量级并且可扩展的聊天客户端。[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
+- [Whatsie](https://github.com/Aluxian/Whatsie) - Ubuntu/Linux 平台下非官方的 Whatsapp 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
 
 
 ### 数据备份与恢复
