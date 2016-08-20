@@ -285,26 +285,26 @@
 
 
 ### 网络
-- [Anatine](https://github.com/sindresorhus/anatine) - A twitter desktop app with many customizations.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
-- [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.![Freeware][Freeware Icon]
-- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
-- [Corebird](http://corebird.baedert.org/) - corebird is native gtk+ twitter desktop client. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browsers with a lot of plugins/apps.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
-- [Midori](http://midori-browser.org/) - A lightweight free browser that runs well on low spec systems. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
-- [Opera](http://www.opera.com/) - Opera browser is everything you need to do more on the web. ![Freeware][Freeware Icon]
-- [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy. ![Freeware][Freeware Icon]
-- [Vivaldi](https://vivaldi.com/?lang=en) - A new and rising browser with a lot of customizations.![Freeware][Freeware Icon]
-- [Yandex](https://browser.yandex.com/desktop/main/) - Fast and convenient browser.![Freeware][Freeware Icon]
+- [Anatine](https://github.com/sindresorhus/anatine) - Twitter 桌面应用，有很多自定义选项。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
+- [Brave](https://brave.com/) - Brave 是一个既快又好的桌面浏览器，可运行于 macOS, Windows 和 Linux 上。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/brave/browser-laptop)
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - 一款非常流行的 Web 浏览器，支持插件或应用。![Freeware][Freeware Icon]
+- [Chromium](http://askubuntu.com/questions/250773/how-do-i-install-chromium-from-the-command-line) - Chromium 是一个开源浏览器项目，旨在为所有用户提供一个更加安全、稳定的方式来体验 Web。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.chromium.org/)
+- [Corebird](http://corebird.baedert.org/) - Corebird 是一款原生的 GTK+ Twitter 桌面客户端。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/baedert/corebird)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - 一款流行的 Web 浏览器，支持插件或应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide)
+- [Midori](http://midori-browser.org/) - 一款可以很好地运行在低配置系统上的轻量级免费浏览器。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/~midori/+archive/ubuntu/ppa).
+- [Opera](http://www.opera.com/) - Opera 浏览器是你要在 web 上做更多事情的所需要的一切。![Freeware][Freeware Icon]
+- [Tor](https://www.torproject.org/) - Tor 是一个免费软件和一个开放网络，它能帮助你防御流量分析，这是一种威胁到个人自由和隐私的网络监视形式。![Freeware][Freeware Icon]
+- [Vivaldi](https://vivaldi.com/?lang=en) - 浏览器界的一颗新星，它拥有很多自定义的设置。![Freeware][Freeware Icon]
+- [Yandex](https://browser.yandex.com/desktop/main/) - 快速便捷的浏览器。![Freeware][Freeware Icon]
 
 ### 办公
-- [Caligra Office](https://www.calligra.org/) - offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.![Freeware][Freeware Icon]
-- [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
-- [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
-- [LibreOffice](https://www.libreoffice.org/) - Best office bundle for linux.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
-- [LyX](http://www.lyx.org/) - Mature document editor that renders into LaTeX ..![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
-- [WPS office](http://wps-community.org/) - One of the best office app bundle for linux.![Freeware][Freeware Icon]
+- [Caligra Office](https://www.calligra.org/) - 提供了一个包含 8 款应用的综合系列，可以满足办公、图像和管理需求。![Freeware][Freeware Icon]
+- [GnuCash](https://www.gnucash.org/) - GnuCash 是一款实现了复试记账系统的免费会计软件。它最初旨在开发兼容 Intuit（Inc.'s Quicken application，公司提升效率应用） 类似的功能，但它针对小型企业会计提供了一些特有功能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 环境下的个人金融管家。它和微软 Money 和 Quiken 应用操作类似。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
+- [LibreOffice](https://www.libreoffice.org/) - Linux 平台下最佳的办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
+- [LyX](http://www.lyx.org/) - 成熟的文档编辑器，可以渲染成 LaTeX。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
+- [WPS office](http://wps-community.org/) - Linux 平台下最佳办公套件之一。![Freeware][Freeware Icon]
 
 ### 生产力
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - Install ambient noise for extra focus on Linux![Freeware][Freeware Icon]
