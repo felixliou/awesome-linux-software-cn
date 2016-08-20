@@ -176,17 +176,17 @@
 
 
 ### 编辑器
-- [Atom](https://atom.io/) - Hackable text editor for the 21st century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.![Freeware][Freeware Icon]
-- [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
-- [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
-- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
-- [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.![Freeware][Freeware Icon]
-- [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2. [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
-- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
-- [Sublime](https://www.sublimetext.com/) - One of the best text editor of all time. ![Freeware][Freeware Icon]
-- [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP) and runtimes.![Freeware][Freeware Icon]
-- [Vim](http://www.vim.org/download.php) -Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
+- [Atom](https://atom.io/) - 一个为 21 世纪打造的可配置的文本编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish 是一款面向程序员与 web 开发者的强大编辑器，拥有多种选项，可以编写网站、脚本和各种程序代码。![Freeware][Freeware Icon]
+- [Brackets](http://brackets.io/) - 一个理解 web 设计的现代文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
+- [Emacs](https://www.gnu.org/software/emacs/) - 一款支持扩展、可定制、免费自由的文本编辑器，其实它还有更多特性。 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - Geany 是一个使用 GTK+ 工具包构建的文本编辑器，它拥有集成开发环境的基础功能。它是小而快的集成开发环境，只依赖几个少量的其它软件包。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) -Gedit 是 GNOME 文本编辑器。由于它的目标是简单易用，所以他是一款非常强大而通用的文本编辑器。![Freeware][Freeware Icon]
+- [Kate](https://kate-editor.org/get-it/) - Kate 是一个支持多种文档格式的编辑器，自从 KDE 2.2 以后就作为 KDE 的一部分了。[![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
+- [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持在线编码。 ![Freeware][Freeware Icon]
+- [Sublime](https://www.sublimetext.com/) - 一直以来都是最棒的文本编辑器之一。![Freeware][Freeware Icon]
+- [VSCode](https://code.visualstudio.com) - Visual Studio Code 一款轻量级、强大的源码编辑器，可在 Windows, OS X 和 Linux 系统上运行。它内建支持 JavaScript, TypeScript 以及 Node.js；同时，它还拥有丰富的扩展系统，可以支持其它语言（C++, C#, Python, PHP）和运行环境。![Freeware][Freeware Icon]
+- [Vim](http://www.vim.org/download.php) -Vim 是一个高级文本编辑器，旨在提供实际 Unix 上的 "Vi" 编辑器的强大功能，同时提供更多完善的功能集合。不论你现在正使用 vi 还是正在使用一个其它不同的编辑器，学习它都是非常有帮助的。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
 
 ### 教育
 - [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit. [![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)![Freeware][Freeware Icon]
