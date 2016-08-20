@@ -215,13 +215,13 @@
 
 
 ### 邮件
-- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality. ![Freeware][Freeware Icon]
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.![Freeware][Freeware Icon]
-- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail. [![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
-- [N1](https://nylas.com/N1) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
-- [Sylpheed](http://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client. [![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features. ![Freeware][Freeware Icon]
-- [Wmail](https://github.com/Thomas101/wmail) - Gmail & Google Inbox unofficial desktop client for linux. [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
+- [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理软件，集成了邮件、日历和地址簿等功能。 ![Freeware][Freeware Icon]
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 打造的电子邮件应用，它可以让你使用一个简单、现代的界面阅读和发送邮件。![Freeware][Freeware Icon]
+- [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag 是一个用于检查 POP3 和 IMAP 服务器有没有新邮件的后台服务程序。[![Open-Source Software][OSS Icon]](https://github.com/pulb/mailnag)![Freeware][Freeware Icon]
+- [N1](https://nylas.com/N1) - 基于现代 web 技术构建的可扩展桌面邮件应用。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
+- [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量级、用户友好型邮件客户端。[![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款易于设置和自定义的电子邮件应用，它含有很多不错的功能。 ![Freeware][Freeware Icon]
+- [Wmail](https://github.com/Thomas101/wmail) - Linux 平台下非官方的 Gmail & Google Inbox 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
 ### 文件管理器
 - [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files![Freeware][Freeware Icon]
