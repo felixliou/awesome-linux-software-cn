@@ -223,17 +223,18 @@
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款易于设置和自定义的电子邮件应用，它含有很多不错的功能。 ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - Linux 平台下非官方的 Gmail & Google Inbox 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
 
+
 ### 文件管理器
-- [7Zip](http://www.7-zip.org/download.html) - Unzip any zip files![Freeware][Freeware Icon]
-- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type. [![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
-- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.![Freeware][Freeware Icon]
-- [Marlin](https://launchpad.net/marlin) - The sexiest fish in the large sea of file managers, Marlin is well-designed with a focus on speed, simplicity, ease of use. ![Freeware][Freeware Icon]
-- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus (Files) is a file manager designed to fit the Gnome desktop design and behaviour, giving the user a simple way to navigate and manage its files.![Freeware][Freeware Icon]
-- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo is the file manager for the Cinnamon desktop environment.[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
-- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
-- [Ranger](http://ranger.nongnu.org/) - Ranger is a console file manager with VI key bindings.[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
-- [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Best application launcher on linux.![Freeware][Freeware Icon]
-- [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar is the file manager designed to be the default file manager of Xfce 4.6 It has been designed to be fast and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
+- [7Zip](http://www.7-zip.org/download.html) - 解压任何 zip 格式的文件。![Freeware][Freeware Icon]
+- [AngrySearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux 文件搜索工具，输入后显示即时搜索结果。[![Open-Source Software][OSS Icon]](https://github.com/DoTheEvo/ANGRYsearch) ![Freeware][Freeware Icon]
+- [Double Commander](http://doublecmd.sourceforge.net/) - Double Commander 是一款跨平台、开源文件管理器，有两个并排的面板。它的灵感来源于 Total Commander，但有一些全新的功能。![Freeware][Freeware Icon]
+- [Marlin](https://launchpad.net/marlin) - 文件管理器汪洋大海中最为性感的一条“鱼”，Marlin 设计美观，专注于速度、简洁和易用。![Freeware][Freeware Icon]
+- [Nautilus](https://wiki.gnome.org/Apps/Nautilus) - Nautilus 是一个专门为适配 Gnome 桌面设计和行为打造的文件管理器，为用户提供了一种简单的方法来浏览和管理文件。![Freeware][Freeware Icon]
+- [Nemo](http://askubuntu.com/questions/294421/how-do-i-install-nemo-file-manager) - Nemo 是 Cinnamon 桌面环境下的文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/nemo) ![Freeware][Freeware Icon]
+- [QDirStat](https://github.com/shundhammer/qdirstat#ubuntu) - 基于 Qt 的目录统计工具。QDirStat 由 KDirStat 的作者打造，但没有 KDirStat 中所包含的任何 KDE 部分。[![Open-Source Software][OSS Icon]](https://github.com/shundhammer/qdirstat) ![Freeware][Freeware Icon]
+- [Ranger](http://ranger.nongnu.org/) - Ranger 是一个绑定了 VI 键的控制台文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
+- [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 平台下最佳的应用启动器。![Freeware][Freeware Icon]
+- [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 中的默认文件管理器，它的设计宗旨是快速、易用。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
 
 
 ### 游戏
