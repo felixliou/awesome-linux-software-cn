@@ -341,13 +341,13 @@
 - [Zim](http://zim-wiki.org/) - 一款用于维护 wiki 页面集合的图形化文本编辑器，非常适合笔记和文档。它将内容存储为文本文件，以便使用版本控制。[![Open-Source Software][OSS Icon]](https://launchpad.net/zim) ![Freeware][Freeware Icon]
 
 ### 安全
-- [ClamAV](https://www.clamav.net/) - Clam Anti Virus ![Freeware][Freeware Icon]
-- [GnuPG](https://www.gnupg.org/) - Gnu Privacy Guard![Freeware][Freeware Icon]
-- [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of linux. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
-- [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client![Freeware][Freeware Icon]
-- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.![Freeware][Freeware Icon]
-- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Gnome frontend for GnuPG![Freeware][Freeware Icon]
-- [Tcpdump](http://www.tcpdump.org/) - TCP Debugging/Capture Tool![Freeware][Freeware Icon]
+- [ClamAV](https://www.clamav.net/) - 反病毒软件包。 ![Freeware][Freeware Icon]
+- [GnuPG](https://www.gnupg.org/) - Gnu 隐私护盾。![Freeware][Freeware Icon]
+- [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
+- [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器和客户端。![Freeware][Freeware Icon]
+- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban 会扫描日志文件（如 `/var/log/apache/error_log`），并禁止有恶意迹象（比如太多次密码错误）的 IP，以及搜寻漏洞等。 ![Freeware][Freeware Icon]
+- [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Seahorse 是 GnuPG 的 Gnome 图形界面前端。![Freeware][Freeware Icon]
+- [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓取工具。l![Freeware][Freeware Icon]
 
 
 ### 文件共享
