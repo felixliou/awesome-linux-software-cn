@@ -9,7 +9,9 @@
 
 [Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
-本文档已使用 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
+本文档已使用 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
+
+**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页（[Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn): https://github.com/chrisleegit/awesome-linux-software-cn）获取其最新版本。
 
 
 ## 目录
@@ -351,37 +353,37 @@
 
 
 ### 文件共享
-- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.![Freeware][Freeware Icon]
-- [D-lan](http://www.d-lan.net/) - A free LAN file sharing software.![Freeware][Freeware Icon]
-- [Deluge](http://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
-- [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.![Freeware][Freeware Icon]
-- [Filezilla](https://filezilla-project.org/) - the free FTP solution [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
-- [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator ![Freeware][Freeware Icon]
-- [Meiga](http://meiga.igalia.com/) - a tool that makes possible to share selected local directories via web. [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
-- [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are![Freeware][Freeware Icon]
-- [Quazaa](https://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.![Freeware][Freeware Icon]
-- [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.![Freeware][Freeware Icon]
-- [qBittorent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
-- [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy ![Freeware][Freeware Icon]
-- [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.[![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) ![Freeware][Freeware Icon]
-- [Teamviewer](https://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.![Freeware][Freeware Icon]
-- [Transmission](https://www.transmissionbt.com/download/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
-- [uGet](http://ugetdm.com/) - The best download manager for linux. [![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
-- [uTorrent](http://www.utorrent.com) - Elegant, efficient torrent downloading. ![Freeware][Freeware Icon]
-- [Vuze](http://www.vuze.com) - Bittorrent Client is an end-to-end software application for all your torrent needs. ![Freeware][Freeware Icon]
+- [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让管理 FTP 相关的任务异常轻松。![Freeware][Freeware Icon]
+- [D-lan](http://www.d-lan.net/) - 免费局域网共享软件。![Freeware][Freeware Icon]
+- [Deluge](http://deluge-torrent.org/) - Deluge 是一个轻量级、免费、跨平台的 BitTorrent 客户端（类似著名的 uTorrent）。[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
+- [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox 是一个免费服务，它能够将你的照片、文档和视频带到任何地方，并能够轻松地分享它们。![Freeware][Freeware Icon]
+- [Filezilla](https://filezilla-project.org/) - 免费开源的 FTP 软件。 [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
+- [Flareget](https://flareget.com/) - 全功能、多线程下载管理器和加速器。![Freeware][Freeware Icon]
+- [Meiga](http://meiga.igalia.com/) - 一个可以通过 web 让本地目录共享成为可能的工具。[![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
+- [ownCloud](https://owncloud.com/products/desktop-clients/) - ownCloud 的目标是无论你身在何处都可以访问你的文件。![Freeware][Freeware Icon]
+- [Quazaa](https://sourceforge.net/projects/quazaa/) - 一个跨平台多网络 P2P 文件共享客户端。![Freeware][Freeware Icon]
+- [PushBullet](https://www.pushbullet.com/) - PushBullet 让你的设备连接成一体。![Freeware][Freeware Icon]
+- [qBittorent](http://www.qbittorrent.org/) - qBittorrent 旨在成为 uTorrent 替代者的免费开源软件。[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+- [SpiderOak](https://spideroak.com/) - 为关心隐私的团队和企业打造的实时协作软件。![Freeware][Freeware Icon]
+- [Syncthing](https://syncthing.net/) - Syncthing 利用开放、值得信赖和分散式的东西替代专有的同步和云服务。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) ![Freeware][Freeware Icon]
+- [Teamviewer](https://www.teamviewer.com/ ) - PC 远程控制软件，对于个人可以免费使用。![Freeware][Freeware Icon]
+- [Transmission](https://www.transmissionbt.com/download/) - 简洁、轻量级、跨平台的 torrent 客户端。[![Open-Source Software][OSS Icon]](https://trac.transmissionbt.com/browser/trunk) ![Freeware][Freeware Icon]
+- [uGet](http://ugetdm.com/) - Linux 平台下最好的下载管理器。[![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
+- [uTorrent](http://www.utorrent.com) - 优雅、高效的 torrent 下载器。 ![Freeware][Freeware Icon]
+- [Vuze](http://www.vuze.com) - Vuze 是一款满足你进行种子下载一切需求的端到端 Bittorrent 客户端。 ![Freeware][Freeware Icon]
 
 
 ### 终端
-- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in linux world ![Freeware][Freeware Icon]
-- [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome![Freeware][Freeware Icon]
-- [Konsole](https://konsole.kde.org/) - Best terminal for KDE dekstop environment.![Freeware][Freeware Icon]
-- [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
-- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator.[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
-- [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
-- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - it’s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.![Freeware][Freeware Icon]
-- [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua.[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
-- [Xterm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.![Freeware][Freeware Icon]
-- [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.![Freeware][Freeware Icon]
+- [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 平台下广泛预装的终端模拟器。![Freeware][Freeware Icon]
+- [Guake](http://guake.org/) - Guake 是 Gnome 桌面环境下的一款“可伸缩”的终端。![Freeware][Freeware Icon]
+- [Konsole](https://konsole.kde.org/) - KDE 桌面环境下最好的终端。![Freeware][Freeware Icon]
+- [RXVT](http://rxvt.sourceforge.net/) - X11 终端模拟器，xterm 流行的替代者。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
+- [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - RXVT-Unicode fork 自著名的终端模拟器。[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
+- [Sakura](https://launchpad.net/sakura) - 简单却强大的基于 libvte 的终端模拟器，支持 utf-8 编码，以及由 GTK+ 和 pango 库提供的输入法。[![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
+- [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 很明显，它是 Linux 平台上最强大并且具有填充功能的终端模拟器。![Freeware][Freeware Icon]
+- [Termit](https://github.com/nonstop/termit/wiki) - 基于 vte 库的简单终端模拟器，可通过 Lua 扩展。[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
+- [Xterm](http://invisible-island.net/xterm/) - xterm 程序是 X 视窗系统的终端模拟器。兼容那些不能直接使用视窗系统的 DEC VT102 和 Tektronix 4014 程序。![Freeware][Freeware Icon]
+- [Yakuake](https://yakuake.kde.org/) - 基于 KED Konsole 技术的 Quake 风格的终端模拟器。![Freeware][Freeware Icon]
 
 
 ### 实用工具
