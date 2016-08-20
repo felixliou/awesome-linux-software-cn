@@ -5,9 +5,9 @@
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
 ## 介绍
-[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收藏了许多非常棒的 Linux 软件、实用工具以及其它相关资料，方便**用户**或**开发者**查阅。
+[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便**用户**或**开发者**查阅。
 
-中文版依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
 本文档已使用 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [Gitbook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
 
@@ -137,30 +137,30 @@
 - [Clion](https://www.jetbrains.com/clion/) - 专门为 C 和 C++ 打造的跨平台、强大的集成开发环境。
 - [Codelite](http://codelite.org/) - 一个免费、开源、跨平台的 C, C++, PHP 和 Node.js 集成开发环境。![Freeware][Freeware Icon]
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 是著名的 Java 集成开发环境，但是 C/C++ 以及 PHP 版本的 Eclipse 也同样非常棒。![Freeware][Freeware Icon]
-- [Fritzing](http://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
-- [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
-- [Genymotion](https://www.genymotion.com/features/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.![Freeware][Freeware Icon]
-- [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.![Freeware][Freeware Icon]
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JAVA ![Freeware][Freeware Icon]
-- [Ipython](https://ipython.org/) - Powerful python shell. [![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
-- [Jupyter Notebook](https://jupyter.org/) - Open source, interactive data science and scientific computing across over 40 programming languages. [![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)![Freeware][Freeware Icon]
-- [KDevelop](https://www.kdevelop.org/) - It is a free, open source IDE, feature-full, plugin extensible IDE for C/C++ and other programming languages.![Freeware][Freeware Icon]
-- [Komodo Edit](http://komodoide.com/komodo-edit/) - Free and open source multilanguage development environment. ![Freeware][Freeware Icon]
-- [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
-- [MonoDevelop](http://www.monodevelop.com/) - Cross platform IDE for C#, F# and more.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
-- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver is a project to write a standalone graphical debugger that integrates well in the GNOME desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
-- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE lets you quickly and easily develop Java desktop, mobile, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. ![Freeware][Freeware Icon]
-- [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. ![Freeware][Freeware Icon]
-- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful IDE for Python ![Freeware][Freeware Icon]
-- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system. ![Freeware][Freeware Icon]
-- [Postman](https://www.getpostman.com) - Postman, help us test API quickly.![Freeware][Freeware Icon]
-- [QT Creator](https://www.qt.io/ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.![Freeware][Freeware Icon]
-- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use. [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
-- [Sqlite Browser](http://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
-- [Swift](https://swift.org/download/) - Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. ![Freeware][Freeware Icon]
-- [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - The official Ubuntu SDK. ![Freeware][Freeware Icon]
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Fritzing](http://fritzing.org/) - Fritzing 是一款开源硬件电路设计工具，它可以让每个人都能够轻松地进行电子创作。[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
+- [Geany](https://www.geany.org/) - Geany 是一个使用 GTK+ 工具包构建的文本编辑器，它拥有集成开发环境的基础功能。它是小而快的集成开发环境，只依赖几个少量的其它软件包。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
+- [Genymotion](https://www.genymotion.com/features/) - Genymotion 是一个第三方安卓模拟器，它非常快速，可以替代默认的安卓模拟器。![Freeware][Freeware Icon]
+- [Git](https://git-scm.com/) - Git 是一个免费开源的分布式版本控制系统，它旨在快速高效地管理各种大大小小的项目。![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 非常强大的 Java 集成开发环境。 ![Freeware][Freeware Icon]
+- [Ipython](https://ipython.org/) - 很强大的 Python Shell。[![Open-Source Software][OSS Icon]](https://github.com/ipython/ipython)![Freeware][Freeware Icon]
+- [Jupyter Notebook](https://jupyter.org/) - 开源、交互式的数据科学和科学计算工具，支持超过 40 种编程语言。[![Open-Source Software][OSS Icon]](https://jupyter.readthedocs.io/en/latest/install.html)![Freeware][Freeware Icon]
+- [KDevelop](https://www.kdevelop.org/) - 它是一个免费开源的集成开发环境，功能丰富，支持插件扩展，支持 C/C++ 及其它编程语言。![Freeware][Freeware Icon]
+- [Komodo Edit](http://komodoide.com/komodo-edit/) - 免费开源的多语言开发环境。 ![Freeware][Freeware Icon]
+- [MariaDB](https://mariadb.org/) - 最流行的数据库服务器之一，由 MySQL 原班人马打造。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://mariadb.org/get-involved/getting-started-for-developers/)
+- [MonoDevelop](http://www.monodevelop.com/) - 针对 C#, F# 等语言的跨平台集成开发环境。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](http://www.monodevelop.com/developers/)
+- [Nemiver](https://github.com/GNOME/nemiver) - Nemiver 是一个用于编写独立的图形界面调试器项目，它与 GNOME 桌面环境很好地集成在一起。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/nemiver) ![Freeware][Freeware Icon]
+- [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE 能够让你快速轻松地开发 Java 桌面应用、移动应用以及 Web 应用，当然也支持使用 HTML, JavaScript 和 CSS 编写 HTML5 应用。![Freeware][Freeware Icon]
+- [NodeJS](https://nodejs.org/en/) - Node.js® 是一个基于 Chrome V8 JavaScript 引擎打造的 JavaScript 运行环境。 ![Freeware][Freeware Icon]
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 一个让人喜爱的由社区驱动的框架，专门用于管理你的 zsh 配置。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
+- [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
+- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL 是一个强大、开源的**对象关系型（object-relational）**数据库系统。![Freeware][Freeware Icon]
+- [Postman](https://www.getpostman.com) - Postman 可以帮助我们快速地测试 API。![Freeware][Freeware Icon]
+- [QT Creator](https://www.qt.io/ide/) - 全能型跨平台集成开发环境，用于轻松地创建连接设备、用户界面（UI）和应用程序。![Freeware][Freeware Icon]
+- [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一组图形化工具的集合，用于简单直接地访问你使用的版本控制系统。 [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
+- [Sqlite Browser](http://sqlitebrowser.org/) - 以可视化的方式创建、管理和查看 sqlite 数据库文件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
+- [Swift](https://swift.org/download/) - Swift 是一种使用现代方法构建的通用编程语言，强调安全、性能和设计模式。 ![Freeware][Freeware Icon]
+- [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - 官方的 Ubuntu SDK。 ![Freeware][Freeware Icon]
+- [Zsh](http://www.zsh.org/) - 一款非常强大的 Shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### 电子书
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
@@ -597,7 +597,6 @@
     1. 你需要为你推荐的应用写上**简介**，并添加小图标（![开源软件][OSS Icon] 代表开源软件，请在后面给出开源代码仓库的链接；![免费软件][Freeware Icon] 则代表免费软件）。
     1. 将你推荐的应用添加到合适的分类标题下，如果没有合适的分类标题，你可以创建一个新的分类标题（完了记得更新目录）。
     1. 请确保新增的条目在合适的分类标题下，并保证排序正确，这样方便查阅。一切完毕后，请提交 Pull Request。
-    
     
 1. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。最后，也希望你能多推荐一些更适合国人使用的应用程序，谢谢！
 
