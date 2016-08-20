@@ -256,32 +256,32 @@
 
 
 ### 图像
-- [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop!
-- [Agave](http://home.gna.org/colorscheme/) - Agave is a very simple application for the GNOME desktop that allows you to generate a variety of colorschemes from a single starting color![Freeware][Freeware Icon]
-- [Blender](https://www.blender.org/) - a free and open source complete 3D creation pipeline for artists and small teams.![Freeware][Freeware Icon]
-- [Cinepaint](http://www.cinepaint.org/) - Open source deep paint software ![Freeware][Freeware Icon]
-- [Darktable](http://www.darktable.org/) - darktable is an open source photography workflow application and RAW developer![Freeware][Freeware Icon]
-- [Digikam](http://www.digikam.org/) - digiKam is an advanced digital photo management application for Linux![Freeware][Freeware Icon]
-- [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
-- [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.![Freeware][Freeware Icon]
-- [GIMP](https://www.gimp.org/downloads/) - GIMP is a freely distributed program for such tasks as photo retouching, image composition and image authoring![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
-- [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras). ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
-- [Hugin](http://hugin.sourceforge.net/) - an easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.![Freeware][Freeware Icon]
-- [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery![Freeware][Freeware Icon]
-- [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators![Freeware][Freeware Icon]
-- [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available
-- [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
-- [Mypaint](http://mypaint.org/about/) - Mypaint is a paint program for use with graphics tablets. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
-- [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
-- [OpenShot](http://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux. ![Freeware][Freeware Icon]
-- [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta is a free, open source program for drawing and image editing.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
-- [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.![Freeware][Freeware Icon]
-- [Radiance](http://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool![Freeware][Freeware Icon]
-- [RawTherapee](http://rawtherapee.com/) - A good looking but lesser known photo editing app.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
-- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.![Freeware][Freeware Icon]
-- [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.![Freeware][Freeware Icon]
-- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme for Linux is a powerful, general purpose graphics program for Unix platforms including Linux, FreeBSD![Freeware][Freeware Icon]
+- [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - Adobe Photoshop 强有力的替代者。
+- [Agave](http://home.gna.org/colorscheme/) - Agave GNOME 桌面环境下一款简单的应用程序，它可以让你从一个单一的初始色生成各种色彩设计。![Freeware][Freeware Icon]
+- [Blender](https://www.blender.org/) - 转为艺术家和小团队打造的免费开源的完整的 3D 创作软件。![Freeware][Freeware Icon]
+- [Cinepaint](http://www.cinepaint.org/) - 开源深度绘图（注：Deep Paint 表示要使颜色的深度达到八位以上）软件。 ![Freeware][Freeware Icon]
+- [Darktable](http://www.darktable.org/) - Darktable 是一个开源摄影流应用和 RAW 显影剂（developer）。![Freeware][Freeware Icon]
+- [Digikam](http://www.digikam.org/) - Digikam 是 Linux 平台下高级数码相片管理应用。![Freeware][Freeware Icon]
+- [Feh](https://feh.finalrewind.org/) - 轻量级极速图片查看器。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh)
+- [Fotoxx](http://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx 是一款用于图片编辑和收藏管理的 Linux 程序。![Freeware][Freeware Icon]
+- [GIMP](https://www.gimp.org/downloads/) - GIMP 是一款免费发布的应用程序，可以完成诸如照片润色、图片合成以及图片签名等任务。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/GNOME/gimp)
+- [gThumb](https://wiki.gnome.org/Apps/gthumb) - gThumb 是一个图片查看器和浏览器（它还包含一个用于从相机转移照片的工具）。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://git.gnome.org/browse/gthumb/)
+- [Hugin](http://hugin.sourceforge.net/) - 一个基于 Panorama 工具的易用跨平台全景图片工具链。![Freeware][Freeware Icon]
+- [Inkscape](https://inkscape.org/en/) - 一个为你准备的强大免费的设计工具，无论你是一位插画家、设计师、web 设计师或者只是一个需要创建矢量图的人。![Freeware][Freeware Icon]
+- [Krita](https://krita.org/en/) - 为艺术家、数字画家和插画家准备的开源的概念设计软件。![Freeware][Freeware Icon]
+- [Lightworks](https://www.lwks.com/) - 专业非线性视频编辑软件，它有一个免费的版本可以使用。
+- [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR 是一款开源图形界面应用，旨在提供一个 HDR 影像工作流。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LuminanceHDR/LuminanceHDR)
+- [Mypaint](http://mypaint.org/about/) - Mypaint 是一个可以使用绘图板的绘画应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/mypaint/mypaint/releases)
+- [Ojo](https://github.com/peterlevi/ojo) - 快速美观的图片查看器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
+- [OpenShot](http://www.openshot.org/) - OpenShot 是 Linux 平台下免费、易用、功能丰富的视频编辑器。![Freeware][Freeware Icon]
+- [Photonic](https://github.com/oferkv/phototonic) - Phototonic 是图片查看器和整理器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一个免费、开源的绘画和图片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
+- [Pitivi](http://www.pitivi.org/) - 是一个免费的视频编辑器，拥有一个美丽直观的用户界面，一个整洁的代码库和很棒的社区。![Freeware][Freeware Icon]
+- [Radiance](http://www.radiance-online.org/) - Radiance 是一个验证照明的仿真工具。![Freeware][Freeware Icon]
+- [RawTherapee](http://rawtherapee.com/) - 一个好看但很少有人知道的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
+- [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 中的照片管理器。![Freeware][Freeware Icon]
+- [StopMotion](http://linuxstopmotion.org/) - StopMotion 是 Linux 平台下一款用于创建定格动画的免费开源应用。它可以帮你捕获并编辑你的动画帧并能将动画帧导出为一个单独的文件。![Freeware][Freeware Icon]
+- [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme 是一个为 Unix 平台（包括 Linux, FreeBSD）打造的强大、通用型图形程序。![Freeware][Freeware Icon]
 
 
 ### 网络
