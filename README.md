@@ -238,21 +238,21 @@
 
 
 ### 游戏
-- [0 A.D](https://play0ad.com/) - Age of Empires like open source RTS game.
-- [Civilization5](http://www.civilization5.com/) - Sid Meier’s Civilization® is recognized as one of the greatest strategy franchises of all-time.
-- [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
-- [Desura](http://www.desura.com/about) - Desura is a community driven digital distribution service for gamers, putting the best games, mods and downloadable content from developers at gamers fingertips, ready to buy and play.
-- [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
-- [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.![Freeware][Freeware Icon]
-- [Minetest](http://www.minetest.net/) -  Open-source Minecraft written in C++ (uses less resources) and includes modding API. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
-- [PlayOnLinux](https://www.playonlinux.com/en/) - Play Windows Game on Linux. [![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
-- [Simutrans](https://www.simutrans.com/en/) - Simutrans is a freeware and open-source transportation simulator. [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
-- [Steam](http://store.steampowered.com/) - Awesome Gaming platform, which opens the gates to many games.![Freeware][Freeware Icon]
-- [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
-- [The Battle for Wesnoth](http://www.wesnoth.org/) - Free, turn-based strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. [![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) ![Freeware][Freeware Icon]
-- [Warzone2100](https://wz2100.net/) - Open-source real-time strategy/real-time tactics game. [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
-- [Wine](https://www.winehq.org/) - Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, Mac OSX, & BSD [![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
-- [Xonotic](http://xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake. [![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
+- [0 A.D](https://play0ad.com/) - 帝国时代，就像开源的即使战略游戏（RTS Game）。
+- [Civilization5](http://www.civilization5.com/) - Sid Meier's Civilization® 一直以来是公认的最伟大的战略游戏系列之一。
+- [Cockatrice](https://cockatrice.github.io/) - Cockatrice 是一个开源多平台支持的程序，用于通过网络玩桌面卡片游戏。[![Open-Source Software][OSS Icon]](https://github.com/Cockatrice) ![Freeware][Freeware Icon]
+- [Desura](http://www.desura.com/about) - Desura 是一个转为游戏玩家打造的社区驱动的数字发布服务平台，它将游戏玩家指尖的来自开发商的最好的游戏，mods 和可下载内容放在上面，随时准备购买和玩游戏。
+- [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Gbrainy 是一个脑筋急转弯游戏，它非常有趣，可以让你的大脑得到训练。 [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
+- [Minecraft](https://minecraft.net/en/download/?ref=m) - Minecraft 是一个放置砖块并不断冒险的游戏。你可以探索随机产生的世界，并在其中建造酷炫的东西，从简单的房子到壮丽的城堡都可以建造出来。![Freeware][Freeware Icon]
+- [Minetest](http://www.minetest.net/) -  使用 C++（消耗更少资源）编写的开源 Minecraft，并且包含改造过的 API。[![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
+- [PlayOnLinux](https://www.playonlinux.com/en/) - 在 Linux 上玩 Windows 游戏。[![Open-Source Software][OSS Icon]](https://github.com/PlayOnLinux/POL-POM-4) ![Freeware][Freeware Icon]
+- [Simutrans](https://www.simutrans.com/en/) - Simutrans 是一个免费并开源的交通运输模拟器。 [![Open-Source Software][OSS Icon]](https://www.simutrans.com/en/develop/) ![Freeware][Freeware Icon]
+- [Steam](http://store.steampowered.com/) - 很棒的游戏平台，为众多游戏敞开了大门。![Freeware][Freeware Icon]
+- [SuperTuxCar](https://supertuxkart.net/Main_Page) - SuperTuxKart 是一个开源的 3D 赛车游戏，拥有多种角色、轨道和可玩的模式。[![Open-Source Software][OSS Icon]](https://github.com/supertuxkart/stk-code) ![Freeware][Freeware Icon]
+- [The Battle for Wesnoth](http://www.wesnoth.org/) - 免费的回合制战略游戏，拥有一个高度幻想的主题，支持单人和线上多人战斗模式。[![Open-Source Software][OSS Icon]](https://github.com/wesnoth/wesnoth) ![Freeware][Freeware Icon]
+- [Warzone2100](https://wz2100.net/) - 开源实时战略/实时战术游戏。 [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
+- [Wine](https://www.winehq.org/) - Wine（起初是“ Wine 不是一个模拟器（Wine Is Not an Emulator）”的缩写）能够运行 Windows 应用的兼容层，它可以在多种 POSIX 兼容的系统上运行，如 Linux, Mac OS X 和 BSD。[![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
+- [Xonotic](http://xonotic.org/) - 竞技场射手，灵感来源于_虚幻竞技场（Unreal Tournament）_ 和_地震（Quake）_。[![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
 
 
 ### 图像
