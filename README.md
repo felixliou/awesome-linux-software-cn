@@ -163,16 +163,16 @@
 - [Zsh](http://www.zsh.org/) - 一款非常强大的 Shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### 电子书
-- [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader. ![Freeware][Freeware Icon]
-- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - One of the most popular eReader apps. ![Freeware][Freeware Icon]
-- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format. ![Freeware][Freeware Icon]
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.![Freeware][Freeware Icon]
-- [MuPDF](http://mupdf.com/) - a lightweight PDF and XPS viewer. [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
-- [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, *BSD, etc.![Freeware][Freeware Icon]
-- [qpdf](https://launchpad.net/qpdfview) - qpdfview is a tabbed document viewer. [![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor.[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - 无比丑陋却非常强大的软件，用于电子书管理与转换。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Evince 是支持多种文档格式的文档阅读器。Evince 的目标是将 GNOME 桌面上各种多文档阅读器替换成一个简单的单一程序。[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0，PDF 阅读器大奖获得者。 ![Freeware][Freeware Icon]
+- [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - 最流行的电子阅读器应用之一。 ![Freeware][Freeware Icon]
+- [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor 是一款用于阅读和管理电子书的软件。Lucidor 支持 EPUB 格式的电子书，并且支持开放式出版发布系统（Open Publication Distribution System, OPDS） 格式的目录。![Freeware][Freeware Icon]
+- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Linux 平台下一款非常便捷智能的 PDF 编辑器。![Freeware][Freeware Icon]
+- [MuPDF](http://mupdf.com/) - 轻量级 PDF 和 XPS 阅读器。 [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
+- [Okular](https://okular.kde.org/) - Okular 是一款基于 KDE 开发的通用文档阅读器，它可以工作在多种平台上，包括但不限于 Linux, Windows, Mac OS X, *BSD 等。![Freeware][Freeware Icon]
+- [qpdf](https://launchpad.net/qpdfview) - qpdfview 是支持多标签的文档阅读器。[![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款可运行于多种平台的 EPUB 电子书编辑器。[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
 
 
 ### 编辑器
