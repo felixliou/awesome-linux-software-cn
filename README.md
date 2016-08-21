@@ -433,18 +433,18 @@
 
 ### 其它
 
-- [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
-- [Mycroft](https://github.com/MycroftAI/mycroft-core) - A.I. for everyone [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
+- [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - 每个人都可以使用的人工智能（A.I.）平台。 [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 
 ## 命令行实用工具
-- [Bastet](https://github.com/fph/bastet) - Play Tetris in commandline.[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
-- [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup. [![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
-- [Fishfry](https://github.com/LubuntuFu/fishfry) - replaces fish history with a history tailored to pentesters for efficency and newbie pentesters for learning.[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
-- [htop](http://hisham.hm/htop/) - top with improved features and user experience [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
-- [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
-- [Tmux](https://tmux.github.io/) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
-- [Top 10 command line tools](http://lifehacker.com/399468/top-10-command-line-tools)
-- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+- [Bastet](https://github.com/fph/bastet) - 在命令行中玩俄罗斯方块游戏（Tetris）。[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
+- [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - 当系统启动后，自动将你的壁纸更换为来自 reddit 壁纸页面或者任何其它 reddit 子页面获得投票最多的图片。[![Open-Source Software][OSS Icon]](https://github.com/ssimunic/Daily-Reddit-Wallpaper)![Freeware][Freeware Icon]
+- [Fishfry](https://github.com/LubuntuFu/fishfry) - 将 Fish Shell 的历史使用定制的历史替换，方便高效使用和新手学习。[![Open-Source Software][OSS Icon]](https://github.com/LubuntuFu/fishfry)![Freeware][Freeware Icon]
+- [htop](http://hisham.hm/htop/) - top 程序的升级版本，拥有更多功能和更佳的使用体验。[![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
+- [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在终端中玩_食豆小子 Pacman_ 游戏。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
+- [Tmux](https://tmux.github.io/) - 可以让你轻松切换运行在同一个终端中的几个程序，分离（程序在后台继续运行）和连接它们到一个不同的终端。此外，它还有更多功能等你尝试。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
+- [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)。
+- [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行版本的 WiFi 连接管理器。
 
 ## 桌面环境
 - [Budgie](https://solus-project.com/budgie/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
