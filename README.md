@@ -421,15 +421,15 @@
 
 
 ### 视频
-- [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
-- [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese)![Freeware][Freeware Icon]
-- [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
-- [Miro](http://www.getmiro.com/) - Free, and open video, music and internet TV application; it brings video channels from thousands of sources and has more free HD than any other platform. ![Freeware][Freeware Icon]
-- [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.![Freeware][Freeware Icon]
-- [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
-- [SMPlayer](http://smplayer.sourceforge.net/) - Free Media Player with built-in codecs. Play all audio and video formats.[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
-- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. ![Freeware][Freeware Icon]
+- [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
+- [Cheese](https://wiki.gnome.org/Apps/Cheese) - Cheese 使用你的摄像头拍摄照片和视频，可以应用各种奇特的特效，并且可以和其他人分享乐趣。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/cheese)![Freeware][Freeware Icon]
+- [Kodi](https://kodi.tv/about/) - 一款一流的免费开源媒体中心软件（GPL 授权），可以用于播放视频、音乐，查看图片，玩游戏等等。[![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc)![Freeware][Freeware Icon]
+- [Miro](http://www.getmiro.com/) - 免费开放的视频、音乐和网络电视应用。它集成了成千上万的视频源，并且比其它任何平台拥有的免费高清（HD）视频都多。![Freeware][Freeware Icon]
+- [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer 是一个可以运行在多种系统下的电影播放器，可以播放各种格式的视频。![Freeware][Freeware Icon]
+- [MPV](https://www.mpv.io) - 一个免费、开源和跨平台的媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)![Freeware][Freeware Icon]
+- [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可以播放所有格式的音频和视频。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
+- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP  采用帧内插（在高端电视和投影仪上都可用）的方法允许你在你的桌面电脑上观看任何视频。![Freeware][Freeware Icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一款免费开源跨平台的多媒体播放器和框架，它可以播放多数格式的多媒体文件以及 DVD，音频 CD，VCD和各种流协议视频文件。 ![Freeware][Freeware Icon]
 
 ### 其它
 
