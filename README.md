@@ -447,17 +447,17 @@
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行版本的 WiFi 连接管理器。
 
 ## 桌面环境
-- [Budgie](https://solus-project.com/budgie/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance. [![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
-- [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
-- [Gnome](https://www.gnome.org/gnome-3/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
-- [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
-- [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start. [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) ![Freeware][Freeware Icon]
-- [LXDE](http://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde) ![Freeware][Freeware Icon]
-- [LXQt](http://lxqt.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. [![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
-- [Mate](http://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2. [![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
-- [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution. ![Freeware][Freeware Icon]
-- [Unity](https://unity.ubuntu.com/) - Unity is a shell for GNOME designed by Canonical for Ubuntu. ![Freeware][Freeware Icon]
-- [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability. [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
+- [Budgie](https://solus-project.com/budgie/) - Budgie 是一个为现代用户设计的桌面环境，强调简单优雅。[![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
+- [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon 努力提供传统的用户体验。Cinnamon fork 自 GNOME 3。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
+- [Gnome](https://www.gnome.org/gnome-3/) - GNOME 是诱人而直观的桌面环境，提供现代和经典 GNOME 的桌面。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
+- [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的外壳，它最初称为 GNOME 的后备模式。该桌面布局和底层技术与 GNOME 2 类似。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
+- [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - KDE Plasma 桌面环境提供了让人熟悉的工作环境。它提供了现代桌面计算体验所需要的各种工具，所以，你从一开始就能够高效工作。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) ![Freeware][Freeware Icon]
+- [LXDE](http://lxde.org/) - 轻量级 X11 桌面环境（LXDE）是一个快速节能的桌面环境。[![Open-Source Software][OSS Icon]](https://github.com/lxde) ![Freeware][Freeware Icon]
+- [LXQt](http://lxqt.org/) - LXQt 是基于 Qt 技术的即将到来的 LXDE 版本。[![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
+- [Mate](http://mate-desktop.com/) - Mate 使用传统隐喻为 Linux 用户提供了直观诱人的桌面。MATE fork 自 GNOME 2。[![Open-Source Software][OSS Icon]](https://github.com/mate-desktop/) ![Freeware][Freeware Icon]
+- [Pantheon](https://elementary.io/) - Pantheon 最初是 elmentary 系统发行版默认的桌面环境。 ![Freeware][Freeware Icon]
+- [Unity](https://unity.ubuntu.com/) - Unity 是由 Cnaonical 为 Ubuntu 设计的 GNOME Shell。![Freeware][Freeware Icon]
+- [Xfce](https://www.xfce.org/) - Xfce 体现了传统 UNIX 设计哲学：模块化与复用。 [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
 
 
 ## 显示管理器
