@@ -44,8 +44,8 @@
 	- [控制台](#控制台)
 	- [图形界面](#图形界面)
 - [窗口管理器](#窗口管理器)
-	- [合成器](#合成器)
-	- [堆栈窗口管理器](#堆栈窗口管理器)
+	- [合成器](#窗口组合管理器)
+	- [堆栈窗口管理器](#栈式窗口管理器)
 	- [平铺式窗口管理器](#平铺式窗口管理器)
 	- [动态窗口管理器](#动态窗口管理器)
 
@@ -463,43 +463,43 @@
 ## 显示管理器
 
 ### 控制台
-- [CDM](https://github.com/ghost1227/cdm) - Ultra-minimalistic, yet full-featured login manager written in Bash. [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
-- [Console TDM](https://github.com/dopsi/console-tdm) - Extension for xinit written in pure Bash. [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
-- [nodm](https://github.com/spanezz/nodm) - Minimalistic display manager for automatic logins. [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
+- [CDM](https://github.com/ghost1227/cdm) - 使用 Bash脚本编写的短小精悍的登录管理器。[![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) ![Freeware][Freeware Icon]
+- [Console TDM](https://github.com/dopsi/console-tdm) - 使用纯 Bash 脚本为 xinit 编写的扩展。[![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) ![Freeware][Freeware Icon]
+- [nodm](https://github.com/spanezz/nodm) - 自动登录用的简约显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) ![Freeware][Freeware Icon]
 
 ### 图形界面
-- [Entrance](http://enlightenment.org) - An EFL based display manager, highly experimental. [![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
-- [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME display manager. [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
-- [KDM](http://www.kde.org) - KDE4 display manager (discontinued). ![Freeware][Freeware Icon]
-- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - Cross-desktop display manager, can use various front-ends written in any toolkit. [![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
-- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE display manager. Can be used independent of the LXDE desktop environment. ![Freeware][Freeware Icon]
-- [MDM](https://github.com/linuxmint/mdm) - MDM display manager, used in Linux Mint, a fork of GDM 2. [![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
-- [SDDM](https://github.com/sddm/sddm) - QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt. [![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
-- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (discontinued) [![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - X display manager with support for XDMCP, host chooser. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
+- [Entrance](http://enlightenment.org) - 一个基于 [EFL](https://www.enlightenment.org/about-efl) 的显示管理器，具有高度试验性。[![Open-Source Software][OSS Icon]](https://github.com/tomas/entrance) ![Freeware][Freeware Icon]
+- [GDM](https://wiki.gnome.org/Projects/GDM) - GNOME 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gdm) ![Freeware][Freeware Icon]
+- [KDM](http://www.kde.org) - KDE4 显示管理器（已停用）。 ![Freeware][Freeware Icon]
+- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - 跨桌面环境的显示管理器，可以使用不同工具集开发的前端。[![Open-Source Software][OSS Icon]](https://github.com/davvid/lightdm) ![Freeware][Freeware Icon]
+- [LXDM](http://sourceforge.net/projects/lxdm/) - LXDE 显示管理器。可与 LXDE 桌面环境独立开使用。 ![Freeware][Freeware Icon]
+- [MDM](https://github.com/linuxmint/mdm) - MDM 显示管理器，用于 Linux Mint，fork 自 GDM 2。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
+- [SDDM](https://github.com/sddm/sddm) - 基于 QML 编写的显示管理器，KDE4 的 KDM 继承者；推荐用于 Plasma 5 和 LXQt。[![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
+- [SLiM](http://sourceforge.net/projects/slim.berlios/) - 轻量级、优雅的图形登录解决方案（已停用）。[![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
+- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 支持 XDMCP 和 主机选择器的 X 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
 
 ## 窗口管理器
 
-### 合成器
-- [Compton](https://github.com/chjj/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+### 窗口组合管理器
+- [Compton](https://github.com/chjj/compton) - Compton 是一个独立的窗口组合管理器，适用于没有原生支持窗口组合功能的窗口管理器。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
 
-### 堆栈窗口管理器
-- [2bwm](https://github.com/venam/2bwm) - Fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm. [![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
-- [Blackbox](http://blackboxwm.sourceforge.net) - Fast, lightweight window manager for the X Window System, without all those annoying library dependencies. [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
-- [Fluxbox](http://fluxbox.org) -  Window manager for X that was based on the Blackbox 0.61.1 code. [![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
-- [Openbox](http://openbox.org) - Highly configurable, next generation window manager with extensive standards support. [![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
+### 栈式窗口管理器
+- [2bwm](https://github.com/venam/2bwm) - 快速浮动窗口管理器，拥有两个特别的边界，基于 XCB 库编写，衍生自 mcwm。[![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
+- [Blackbox](http://blackboxwm.sourceforge.net) - X 视窗系统下的快速、轻量级窗口管理器，完全没有各种恼人的库依赖问题。 [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
+- [Fluxbox](http://fluxbox.org) -  基于 Blackbox 0.61.1 代码编写的 X 窗口管理器。[![Open-Source Software][OSS Icon]](https://github.com/fluxbox/fluxbox) ![Freeware][Freeware Icon]
+- [Openbox](http://openbox.org) - 高度可配置的下一代窗口管理器，拥有广泛的标准支持。[![Open-Source Software][OSS Icon]](https://github.com/danakj/openbox) ![Freeware][Freeware Icon]
 
 ### 平铺式窗口管理器
-- [Bspwm](https://github.com/baskerville/bspwm/wiki) - bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
-- [Herbstluftwm](https://herbstluftwm.org) - Manual tiling window manager for X11 using Xlib and Glib. [![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
+- [Bspwm](https://github.com/baskerville/bspwm/wiki) - Bspwm 是一个平铺式窗口管理器，它将窗口当作一颗完全二叉树的叶子呈现出来。[![Open-Source Software][OSS Icon]](https://github.com/baskerville/bspwm) ![Freeware][Freeware Icon]
+- [Herbstluftwm](https://herbstluftwm.org) - 用于 X11 的手动平铺式窗口管理器，基于 Xlib 和 Glib 构建。[![Open-Source Software][OSS Icon]](https://github.com/herbstluftwm/herbstluftwm) ![Freeware][Freeware Icon]
 
 ### 动态窗口管理器
-- [awesome](https://awesome.naquadah.org) - Highly configurable, next generation framework window manager for X. [![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
-- [dwm](http://dwm.suckless.org) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. [![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
-- [i3](https://i3wm.org) - Tiling window manager, completely written from scratch. [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
-- [spectrwm](https://github.com/conformal/spectrwm/wiki) - Small dynamic tiling window manager for X11, largely inspired by xmonad and dwm. [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
-- [xmonad](http://xmonad.org) - Dynamically tiling X11 window manager that is written and configured in Haskell. [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
+- [awesome](https://awesome.naquadah.org) - 高度可配置的下一代 X 窗口管理器框架。[![Open-Source Software][OSS Icon]](https://github.com/awesomeWM/awesome) ![Freeware][Freeware Icon]
+- [dwm](http://dwm.suckless.org) - X 动态窗口管理器。它可以让窗口使用平铺（tiled）、单一（monocle）和浮动（floating）布局。[![Open-Source Software][OSS Icon]](https://github.com/cdown/dwm) ![Freeware][Freeware Icon]
+- [i3](https://i3wm.org) - 完全从头开始编写的平铺式窗口管理器。 [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
+- [spectrwm](https://github.com/conformal/spectrwm/wiki) - 小型 X11 动态窗口管理器，很大程度上受到 xmonad 和 dwm 的影响。[![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
+- [xmonad](http://xmonad.org) - 使用 Haskell 编写和配置的 X11 动态窗口管理器。 [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
 
 
 
