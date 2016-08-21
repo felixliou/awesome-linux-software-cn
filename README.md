@@ -11,7 +11,7 @@
 
 本文档已使用 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
 
-**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页（[Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn): https://github.com/chrisleegit/awesome-linux-software-cn）获取其最新版本。
+**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) `https://github.com/chrisleegit/awesome-linux-software-cn` 获取其最新版本。
 
 
 ## 目录
@@ -387,37 +387,37 @@
 
 
 ### 实用工具
-- [Actionaz](http://actionaz.org/) - Automation tasks utility for ubuntu/Linux![Freeware][Freeware Icon]
-- [Bleach bit](https://www.bleachbit.org/) -BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more ... ![Freeware][Freeware Icon]
-- [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD burner.![Freeware][Freeware Icon]
-- [Caffeine](https://launchpad.net/caffeine) - Prevents ubuntu from automatically going to sleep.![Freeware][Freeware Icon]
-- [Clonezilla](http://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
-- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke is a gesture-recognition application for X11.[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
-- [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.![Freeware][Freeware Icon]
-- [Convertall](https://sourceforge.net/projects/convertall/) - Convert all units.![Freeware][Freeware Icon]
-- [GD map](http://gdmap.sourceforge.net/) - A tool to visualize disk usage. ![Freeware][Freeware Icon]
-- [Gnormalize](http://gnormalize.sourceforge.net/) - Audio converter. ![Freeware][Freeware Icon]
-- [GParted](http://gparted.org/) - Disk Partition utility for ubuntu/linux. ![Freeware][Freeware Icon]
-- [GRadio](https://github.com/haecker-felix/gradio/releases/) - Radio software for ubuntu linux. [![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
-- [Handbrake](https://handbrake.fr/) - Video converter. ![Freeware][Freeware Icon]
-- [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono. ![Freeware][Freeware Icon]
-- [KeePassX](https://www.keepassx.org/) - Cross platform password manager. Port of KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
-- [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images. ![Freeware][Freeware Icon]
-- [LastPass](https://lastpass.com/misc_download2.php) - Cross platform password <manager class="" Freeware="" Icon=""></manager>
-- [Powertop](https://01.org/powertop/downloads) - Diagnose issue with powerconsumption.![Freeware][Freeware Icon]
-- [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles. ![Freeware][Freeware Icon]
-- [Peazip](http://www.peazip.org/) - Utility to unzip any zipped files ![Freeware][Freeware Icon]
-- [Psensor](http://wpitchoune.net/psensor/) - Graphical hardware temperature monitor for Linux.[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) ![Freeware][Freeware Icon]
-- [Remarkable](https://remarkableapp.github.io/) - Best Markdown editor in Ubuntu/Linux.![Freeware][Freeware Icon]
-- [Remmina](http://www.remmina.org/wp/) - A FEATURE RICH REMOTE DESKTOP APPLICATION FOR LINUX AND OTHER UNIXES.[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware Icon]
-- [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - Show systemload in status bar.![Freeware][Freeware Icon]
-- [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic is a graphical package management program for apt.![Freeware][Freeware Icon]
-- [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - Optimize Linux battery.![Freeware][Freeware Icon]
-- [Variety](http://peterlevi.com/variety/) - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use. [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
-- [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
-- [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - Automatically change your wallpaper.![Freeware][Freeware Icon]
-- [Workrave](http://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
-- [Xtreme Download Manager](http://xdman.sourceforge.net/) - A good download manager with fresh UI for linux.[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
+- [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下自动化任务实用工具。![Freeware][Freeware Icon]
+- [Bleach bit](https://www.bleachbit.org/) -BleachBit 会为你快速释放磁盘空间并不知疲倦地保卫你的隐私。它可以清空缓存、删除 cookies，清空网络浏览记录、粉碎临时文件、删除日志等等。 ![Freeware][Freeware Icon]
+- [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 刻录程。![Freeware][Freeware Icon]
+- [Caffeine](https://launchpad.net/caffeine) - 阻止 Ubuntu 自动睡眠。![Freeware][Freeware Icon]
+- [Clonezilla](http://clonezilla.org/) - Clonezilla 是一个类似于 True Image®  和 Norton Ghost® 的分区和磁盘映像克隆程序。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
+- [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke 是 X11 下的鼠标手势识别软件（很不错，个人也很推荐）。[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
+- [Enpass](https://www.enpass.io/) - Enpass 通过安全地管理你的密码和重要信息让你的生活更加轻松。![Freeware][Freeware Icon]
+- [Convertall](https://sourceforge.net/projects/convertall/) - 单位换算软件。![Freeware][Freeware Icon]
+- [GD map](http://gdmap.sourceforge.net/) - 一个以可视化的方式展现磁盘使用情况的工具。 ![Freeware][Freeware Icon]
+- [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换器。 ![Freeware][Freeware Icon]
+- [GParted](http://gparted.org/) - Ubuntu/Linux 下的磁盘分区实用工具。 ![Freeware][Freeware Icon]
+- [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu Linux 平台下的广播软件。[![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
+- [Handbrake](https://handbrake.fr/) - 视频转换器。 ![Freeware][Freeware Icon]
+- [KeePass](https://www.keepass.info/) - Windows 平台下的密码管理器，通过 Mono 提供跨一些跨平台支持。 ![Freeware][Freeware Icon]
+- [KeePassX](https://www.keepassx.org/) - 开源跨平台的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
+- [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick 是用于修改和进行图片工作的命令行实用工具套件。![Freeware][Freeware Icon]
+- [LastPass](https://lastpass.com/misc_download2.php) - 跨平台密码管理器。![Freeware][Freeware Icon]
+- [Powertop](https://01.org/powertop/downloads) - 通过能源消耗诊断故障。![Freeware][Freeware Icon]
+- [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 使用自定义配置提升 Linux 音频质量。![Freeware][Freeware Icon]
+- [Peazip](http://www.peazip.org/) - 用于解压任何 zip 格式的文件。![Freeware][Freeware Icon]
+- [Psensor](http://wpitchoune.net/psensor/) - Linux 平台下图形化的硬件温度监视器。[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) ![Freeware][Freeware Icon]
+- [Remarkable](https://remarkableapp.github.io/) - Ubuntu/Linux 下最佳 Markdown 编辑器。![Freeware][Freeware Icon]
+- [Remmina](http://www.remmina.org/wp/) - Linux 和 其它 Unix 系统平台下的一款功能丰富的远程桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware Icon]
+- [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - 在状态栏显示系统负载。![Freeware][Freeware Icon]
+- [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic 是图形化 APT 包管理程序（不想使用命令行安装程序的话，推荐使用）。![Freeware][Freeware Icon]
+- [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - 优化 Linux 电池。![Freeware][Freeware Icon]
+- [Variety](http://peterlevi.com/variety/) - Variety  是一个 Linux 平台下的开源壁纸更换程序，拥有许多很棒的功能同时依旧紧凑易用。[![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
+- [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是 x86 硬件平台全虚拟化软件，可用于服务器、桌面系统和嵌入式系统。[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
+- [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - 自动更换你的壁纸。![Freeware][Freeware Icon]
+- [Workrave](http://www.workrave.org/) - 一款可以帮助你恢复身体并阻止（肢体）重复性劳损的程序。[![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
+- [Xtreme Download Manager](http://xdman.sourceforge.net/) - 一款在 Linux 平台下很棒的并且拥有全新界面的下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
 
 
 ### 视频
