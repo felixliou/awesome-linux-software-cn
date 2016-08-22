@@ -66,8 +66,8 @@
 
 ***********
 
-## 应用程序
 
+## 应用程序
 
 ### 音频
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是开源广播软件，它用于时间安排和远程站点管理。[![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
@@ -78,9 +78,9 @@
 - [Clementine](https://www.clementine-player.org/) - 支持播放许多种有损或无损格式的音频。 [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 一款非官方但非常漂亮的跨平台的桌面播放器，用于播放来自 Google Play 的音乐。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 平台下的高级电子鼓。![Freeware][Freeware Icon]
-- [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是用于专业音频制作的各种应用程序和插件的集合。![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - Linux 平台下的 CD/DVD 刻录软件，为 KDE 环境优化过。[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 用于编辑多种文件标签，例如：艺术家（artist）、唱片（album）、年份（year）以及某个唱片下所有 mp3 文件的流派（genre）。![Freeware][Freeware Icon]
+- [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是用于专业音频制作的各种应用程序和插件的集合。![Freeware][Freeware Icon]
 - [Let's make music](https://lmms.io/download/#linux) - 通过在你的 PC 上创建旋律和节拍、声音合成与混音、整理采样等来创建你的音乐。 ![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop 是一款全新的 GNOME 音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，让你随心所欲地进行现场混音，Traktor 名副其实的替代者。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
@@ -103,7 +103,6 @@
 - [Weechat](https://weechat.org/) - WeeChat 是一款快速、轻量级并且可扩展的聊天客户端。[![Open-Source Software][OSS Icon]](https://github.com/weechat) ![Freeware][Freeware Icon]
 - [Whatsie](https://github.com/Aluxian/Whatsie) - Ubuntu/Linux 平台下非官方的 Whatsapp 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Whatsie) ![Freeware][Freeware Icon]
 
-
 ### 数据备份与恢复
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - 一个很棒的数据备份工具。[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
 - [Photorec](http://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec 是一款文件数据恢复软件，旨在恢复各种丢失的文件，包括来自硬盘的视频、文档和归档以及来自数码相机存储器丢失的照片（因此，照片恢复（Photo Recovery）即为应用的名称）。![Freeware][Freeware Icon]
@@ -118,11 +117,11 @@
 - [Arc Theme](https://github.com/horst3180/arc-theme) - 一款扁平化带有透明元素的主题。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Compiz Config 设置管理器](https://apps.ubuntu.com/cat/applications/compizconfig-settings-manager/) - OpenCompositing 项目将 3D 桌面视觉效果带到了 X 视窗系统（X Window System）中，它提升了 X 视窗系统的可用性并且提升了生产力。![Freeware][Freeware Icon]
 - [Conky](https://github.com/brndnmtthws/conky) - Conky 是一款专门为 X 视窗系统打造的免费、轻量级系统监视器，它可以在你的桌面上显示任何类型的信息。 [![Open-Source Software][OSS Icon]](https://github.com/brndnmtthws/conky)![Freeware][Freeware Icon]
-- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 这是一款为 Ubuntu 和其它基于 Gnome 的 Linux 系统打造的扁平化主题。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Flatabulous Arc Theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - 我最喜欢的 Ubuntu 主题。[![Open-Source Software][OSS Icon]](https://github.com/andreisergiu98/arc-flatabulous-theme)![Freeware][Freeware Icon]
-- [Irradiance Theme](https://github.com/bsundman/Irradiance) - 一款基于 Radiance 的 Unity 主题，设计灵感来源于 OS X Yosemite。[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
+- [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - 这是一款为 Ubuntu 和其它基于 Gnome 的 Linux 系统打造的扁平化主题。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Gnome Extensions](http://extensions.gnome.org/) - Gnome 桌面环境扩展。![Freeware][Freeware Icon]
 - [Gnome Look](https://www.gnome-look.org/) - 包含了大量由社区创建的图标、Gnome Shell 主题、字体以及其它更多资源，你可以用它们自定义你的 Gnome 桌面环境，它们都集中在一个这一个网站上。![Freeware][Freeware Icon]
+- [Irradiance Theme](https://github.com/bsundman/Irradiance) - 一款基于 Radiance 的 Unity 主题，设计灵感来源于 OS X Yosemite。[![Open-Source Software][OSS Icon]](https://github.com/bsundman/Irradiance)![Freeware][Freeware Icon]
 - [Numix Icon Theme](http://www.noobslab.com/2014/04/install-numix-icon-packs-in-ubuntulinux.html) - 为 Ubuntu Linux 打造的最好的图标主题之一。[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-icon-theme) ![Freeware][Freeware Icon]
 - [Numix Theme](https://itsfoss.com/install-numix-ubuntu/) - 好看又流行的主题。[![Open-Source Software][OSS Icon]](https://github.com/numixproject/numix-gtk-theme) ![Freeware][Freeware Icon]
 - [Paper Icon Theme](https://snwh.org/paper/icons) - Paper 是一款现代的自由桌面图标主题，它的设计采用了醒目的色彩和简单的几何图形来构成图标。![Freeware][Freeware Icon]
@@ -135,8 +134,8 @@
 - [Aptana](http://www.aptana.com/) - Aptana Studio 利用了 Eclipse 的灵活性，并且专注于将它集成到一个强大的 web 开发引擎中。![Freeware][Freeware Icon]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 开源 Arduino 软件（IDE）可以非常方便地编写代码并将它们上传到开发板中。![Freeware][Freeware Icon]
 - [BlueJ](http://bluej.org/) - 为初学者设计的免费 Java 开发环境，全世界有数百万人都在使用它。![Freeware][Freeware Icon]
-- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是免费的 C, C++ 和 Fortran 集成开发环境，它可以满足开发者非常苛刻的需求。它被设计为具有很好的扩展性以及完全可配置。![Freeware][Freeware Icon]
 - [Clion](https://www.jetbrains.com/clion/) - 专门为 C 和 C++ 打造的跨平台、强大的集成开发环境。
+- [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是免费的 C, C++ 和 Fortran 集成开发环境，它可以满足开发者非常苛刻的需求。它被设计为具有很好的扩展性以及完全可配置。![Freeware][Freeware Icon]
 - [Codelite](http://codelite.org/) - 一个免费、开源、跨平台的 C, C++, PHP 和 Node.js 集成开发环境。![Freeware][Freeware Icon]
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 是著名的 Java 集成开发环境，但是 C/C++ 以及 PHP 版本的 Eclipse 也同样非常棒。![Freeware][Freeware Icon]
 - [Fritzing](http://fritzing.org/) - Fritzing 是一款开源硬件电路设计工具，它可以让每个人都能够轻松地进行电子创作。[![Open-Source Software][OSS Icon]](https://github.com/fritzing/fritzing-app)![Freeware][Freeware Icon]
@@ -154,9 +153,9 @@
 - [Netbeans](https://netbeans.org/downloads/) - NetBeans IDE 能够让你快速轻松地开发 Java 桌面应用、移动应用以及 Web 应用，当然也支持使用 HTML, JavaScript 和 CSS 编写 HTML5 应用。![Freeware][Freeware Icon]
 - [NodeJS](https://nodejs.org/en/) - Node.js® 是一个基于 Chrome V8 JavaScript 引擎打造的 JavaScript 运行环境。 ![Freeware][Freeware Icon]
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 一个让人喜爱的由社区驱动的框架，专门用于管理你的 zsh 配置。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
-- [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
 - [Postgresql](https://www.postgresql.org/download/) - PostgreSQL 是一个强大、开源的**对象关系型（object-relational）**数据库系统。![Freeware][Freeware Icon]
 - [Postman](https://www.getpostman.com) - Postman 可以帮助我们快速地测试 API。![Freeware][Freeware Icon]
+- [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
 - [QT Creator](https://www.qt.io/ide/) - 全能型跨平台集成开发环境，用于轻松地创建连接设备、用户界面（UI）和应用程序。![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一组图形化工具的集合，用于简单直接地访问你使用的版本控制系统。 [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - 以可视化的方式创建、管理和查看 sqlite 数据库文件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
@@ -167,15 +166,14 @@
 ### 电子书
 - [Calibre](http://calibre-ebook.com/) - 无比丑陋却非常强大的软件，用于电子书管理与转换。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 - [Evince](https://wiki.gnome.org/Apps/Evince) - Evince 是支持多种文档格式的文档阅读器。Evince 的目标是将 GNOME 桌面上各种多文档阅读器替换成一个简单的单一程序。[![Open-Source Software][OSS Icon]](https://wiki.gnome.org/Apps/Evince/GettingEvince) ![Freeware][Freeware Icon]
-- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0，PDF 阅读器大奖获得者。 ![Freeware][Freeware Icon]
 - [FBReader](https://fbreader.org/content/fbreader-beta-linux-desktop) - 最流行的电子阅读器应用之一。 ![Freeware][Freeware Icon]
+- [Foxit](https://www.foxitsoftware.com/products/pdf-reader/) - Foxit Reader 8.0，PDF 阅读器大奖获得者。 ![Freeware][Freeware Icon]
 - [Lucidor](http://www.lucidor.org/lucidor/) - Lucidor 是一款用于阅读和管理电子书的软件。Lucidor 支持 EPUB 格式的电子书，并且支持开放式出版发布系统（Open Publication Distribution System, OPDS） 格式的目录。![Freeware][Freeware Icon]
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Linux 平台下一款非常便捷智能的 PDF 编辑器。![Freeware][Freeware Icon]
 - [MuPDF](http://mupdf.com/) - 轻量级 PDF 和 XPS 阅读器。 [![Open-Source Software][OSS Icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) ![Freeware][Freeware Icon]
 - [Okular](https://okular.kde.org/) - Okular 是一款基于 KDE 开发的通用文档阅读器，它可以工作在多种平台上，包括但不限于 Linux, Windows, Mac OS X, *BSD 等。![Freeware][Freeware Icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview 是支持多标签的文档阅读器。[![Open-Source Software][OSS Icon]](https://launchpad.net/qpdfview) ![Freeware][Freeware Icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil 是一款可运行于多种平台的 EPUB 电子书编辑器。[![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
-
 
 ### 编辑器
 - [Atom](https://atom.io/) - 一个为 21 世纪打造的可配置的文本编辑器。[![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
@@ -187,8 +185,8 @@
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个支持多种文档格式的编辑器，自从 KDE 2.2 以后就作为 KDE 的一部分了。[![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持在线编码。 ![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - 一直以来都是最棒的文本编辑器之一。![Freeware][Freeware Icon]
-- [VSCode](https://code.visualstudio.com) - Visual Studio Code 一款轻量级、强大的源码编辑器，可在 Windows, OS X 和 Linux 系统上运行。它内建支持 JavaScript, TypeScript 以及 Node.js；同时，它还拥有丰富的扩展系统，可以支持其它语言（C++, C#, Python, PHP）和运行环境。![Freeware][Freeware Icon]
 - [Vim](http://www.vim.org/download.php) -Vim 是一个高级文本编辑器，旨在提供实际 Unix 上的 "Vi" 编辑器的强大功能，同时提供更多完善的功能集合。不论你现在正使用 vi 还是正在使用一个其它不同的编辑器，学习它都是非常有帮助的。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim)![Freeware][Freeware Icon]
+- [VSCode](https://code.visualstudio.com) - Visual Studio Code 一款轻量级、强大的源码编辑器，可在 Windows, OS X 和 Linux 系统上运行。它内建支持 JavaScript, TypeScript 以及 Node.js；同时，它还拥有丰富的扩展系统，可以支持其它语言（C++, C#, Python, PHP）和运行环境。![Freeware][Freeware Icon]
 
 ### 教育
 - [BibleTime](http://bibletime.info/) - BibleTime 是一个《圣经》学习程序，它基于 Sword 库以及 Qt 工具集。[![Open-Source Software][OSS Icon]](https://github.com/bibletime/bibletime)![Freeware][Freeware Icon]
@@ -197,8 +195,8 @@
 - [Epoptes](http://www.epoptes.org/) - 一个开源的计算机实验室管理和监控工具。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一个高质量的教育软件套件，包含了针对 2 岁到 10 岁孩子的众多活动（activities）。[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - 一款图形化计算器，可以进行函数、几何、代数、微积分、统计以及 3D 数学运算。 ![Freeware][Freeware Icon]
-- [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。 [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)![Freeware][Freeware Icon]
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费软件，你的打字导师。[![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
+- [GNUKhata](http://www.gnukhata.in/) - 开源会计软件。 [![Open-Source Software][OSS Icon]](https://github.com/kinitrupti/GNUKhata)![Freeware][Freeware Icon]
 - [Google Earth](https://itsfoss.com/install-google-earth-ubunu/) - Google Earth 是一个虚拟地球、地图和地理信息程序。![Freeware][Freeware Icon]
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是 Linux 平台下的**元素周期表（periodic table）**程序。![Freeware][Freeware Icon]
 - [ITalc](https://github.com/iTALC/italc/releases) - iTALC 是为教师准备的强大的教学工具，它可以让你用若干种方式控制你的网络中的其它计算机。[![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
@@ -215,7 +213,6 @@
 - [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids 为孩子们开发高质量的软件，目标是在一个不可抗拒的软件包中结合乐趣与学习。[![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
 - [UGENE](http://ugene.net/) - UGENE 是一款免费开源跨平台集成 GUI 的生物信息学（bioinformatics）软件。[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
 
-
 ### 邮件
 - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution 是一款个人信息管理软件，集成了邮件、日历和地址簿等功能。 ![Freeware][Freeware Icon]
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Geary 是一款为 GNOME 3 打造的电子邮件应用，它可以让你使用一个简单、现代的界面阅读和发送邮件。![Freeware][Freeware Icon]
@@ -224,7 +221,6 @@
 - [Sylpheed](http://sylpheed.sraoss.jp/en/) - 轻量级、用户友好型邮件客户端。[![Open-Source Software][OSS Icon]](http://sylpheed.sraoss.jp/en/download.html#stable)![Freeware][Freeware Icon]
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Thunderbird 是一款易于设置和自定义的电子邮件应用，它含有很多不错的功能。 ![Freeware][Freeware Icon]
 - [Wmail](https://github.com/Thomas101/wmail) - Linux 平台下非官方的 Gmail & Google Inbox 桌面客户端。 [![Open-Source Software][OSS Icon]](https://github.com/Thomas101/wmail)![Freeware][Freeware Icon]
-
 
 ### 文件管理器
 - [7Zip](http://www.7-zip.org/download.html) - 解压任何 zip 格式的文件。![Freeware][Freeware Icon]
@@ -237,7 +233,6 @@
 - [Ranger](http://ranger.nongnu.org/) - Ranger 是一个绑定了 VI 键的控制台文件管理器。[![Open-Source Software][OSS Icon]](https://github.com/ranger/ranger) ![Freeware][Freeware Icon]
 - [Synapse](https://launchpad.net/ubuntu/xenial/+source/synapse) - Linux 平台下最佳的应用启动器。![Freeware][Freeware Icon]
 - [Thunar](https://apps.ubuntu.com/cat/applications/precise/thunar/) - Thunar 被设计成为 Xfce 4.6 中的默认文件管理器，它的设计宗旨是快速、易用。 [![Open-Source Software][OSS Icon]](https://github.com/luisgg/thunar) ![Freeware][Freeware Icon]
-
 
 ### 游戏
 - [0 A.D](https://play0ad.com/) - 帝国时代，就像开源的即使战略游戏（RTS Game）。
@@ -255,7 +250,6 @@
 - [Warzone2100](https://wz2100.net/) - 开源实时战略/实时战术游戏。 [![Open-Source Software][OSS Icon]](http://developer.wz2100.net/) ![Freeware][Freeware Icon]
 - [Wine](https://www.winehq.org/) - Wine（起初是“ Wine 不是一个模拟器（Wine Is Not an Emulator）”的缩写）能够运行 Windows 应用的兼容层，它可以在多种 POSIX 兼容的系统上运行，如 Linux, Mac OS X 和 BSD。[![Open-Source Software][OSS Icon]](https://github.com/wine-mirror/wine) ![Freeware][Freeware Icon]
 - [Xonotic](http://xonotic.org/) - 竞技场射手，灵感来源于_虚幻竞技场（Unreal Tournament）_ 和_地震（Quake）_。[![Open-Source Software][OSS Icon]](https://gitlab.com/groups/xonotic) ![Freeware][Freeware Icon]
-
 
 ### 图像
 - [Aftershot](http://www.aftershotpro.com/en/products/aftershot/pro/) - Adobe Photoshop 强有力的替代者。
@@ -277,14 +271,13 @@
 - [Ojo](https://github.com/peterlevi/ojo) - 快速美观的图片查看器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo)
 - [OpenShot](http://www.openshot.org/) - OpenShot 是 Linux 平台下免费、易用、功能丰富的视频编辑器。![Freeware][Freeware Icon]
 - [Photonic](https://github.com/oferkv/phototonic) - Phototonic 是图片查看器和整理器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic)
-- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一个免费、开源的绘画和图片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute) 
+- [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一个免费、开源的绘画和图片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - 是一个免费的视频编辑器，拥有一个美丽直观的用户界面，一个整洁的代码库和很棒的社区。![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance 是一个验证照明的仿真工具。![Freeware][Freeware Icon]
 - [RawTherapee](http://rawtherapee.com/) - 一个好看但很少有人知道的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 中的照片管理器。![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - StopMotion 是 Linux 平台下一款用于创建定格动画的免费开源应用。它可以帮你捕获并编辑你的动画帧并能将动画帧导出为一个单独的文件。![Freeware][Freeware Icon]
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme 是一个为 Unix 平台（包括 Linux, FreeBSD）打造的强大、通用型图形程序。![Freeware][Freeware Icon]
-
 
 ### 网络
 - [Anatine](https://github.com/sindresorhus/anatine) - Twitter 桌面应用，有很多自定义选项。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/anatine)
@@ -300,9 +293,9 @@
 - [Yandex](https://browser.yandex.com/desktop/main/) - 快速便捷的浏览器。![Freeware][Freeware Icon]
 
 ### 办公
+- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [Caligra Office](https://www.calligra.org/) - 提供了一个包含 8 款应用的综合系列，可以满足办公、图像和管理需求。![Freeware][Freeware Icon]
 - [GnuCash](https://www.gnucash.org/) - GnuCash 是一款实现了复试记账系统的免费会计软件。它最初旨在开发兼容 Intuit（Inc.'s Quicken application，公司提升效率应用） 类似的功能，但它针对小型企业会计提供了一些特有功能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
-- Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 环境下的个人金融管家。它和微软 Money 和 Quiken 应用操作类似。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
 - [LibreOffice](https://www.libreoffice.org/) - Linux 平台下最佳的办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - 成熟的文档编辑器，可以渲染成 LaTeX。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
@@ -313,7 +306,6 @@
 - [Autokey](https://code.google.com/archive/p/autokey/) - Linux 平台下桌面自动化实用工具，它可以让你管理脚本和短语集合，并且可以给它们设定缩写和快捷键。![Freeware][Freeware Icon]
 - [Basket Note Pads](http://basket.kde.org/) - 多功能笔记类应用，可以帮助你轻松地记录各种笔记。 [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) ![Freeware][Freeware Icon]
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 亮度指示器。![Freeware][Freeware Icon]
-- [SpeedCrunch](http://www.speedcrunch.org/) - 一款美观、开源、高精度的科学计算器。[![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) ![Freeware][Freeware Icon]
 - [California](https://wiki.gnome.org/Apps/California) - 完整的日历应用替代者，它可以使用自然语言创建事件。![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是高级剪切板管理器，支持编辑和脚本功能。![Freeware][Freeware Icon]
 - [f.lux](https://justgetflux.com/linux.html) - 自动根据光线调节你的电脑屏幕亮度。 ![Freeware][Freeware Icon]
@@ -322,15 +314,16 @@
 - [Gpick](http://www.gpick.org/) - Gpick 允许你从桌面上任何位置采样任何颜色，此外它还提供了一些其它的高级功能。 [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) ![Freeware][Freeware Icon]
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - My Todo 是一款开源任务清单程序，它可以让你，让用户掌控一切。[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu平台下的天气指示器小部件。![Freeware][Freeware Icon]
-- [Notes](http://www.get-notes.com/) - Linux 平台下简洁的笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 桌面下类似于 Notepad++ 的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
+- [Notes](http://www.get-notes.com/) - Linux 平台下简洁的笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一个不同的笔记管理器，专注于安全和更友好的用户界面。Papyrus 正在尝试为用户提供更加易用智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
 - [Plank](https://launchpad.net/plank) - Plank 注定要称为本星球上最简单的 dock 应用。
 - [Pomodone App](http://pomodoneapp.com/) - 利用 PomoDoneApp 是使用 Pomodoro 技术® 追踪你的工作流程的最简单的方法，就在你目前使用的任务管理器服务之上。![Freeware][Freeware Icon]
-- [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一个不同的笔记管理器，专注于安全和更友好的用户界面。Papyrus 正在尝试为用户提供更加易用智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
 - [Recent Noti](https://itsfoss.com/7-best-indicator-applets-for-ubuntu-13-10/) - 最近通知指示器。![Freeware][Freeware Icon]
 - [Redshift](http://jonls.dk/redshift/) - Redshift 会根据你的周围环境调整你的屏幕色温。如果你在晚上工作于电脑屏幕前的话，它可能会帮助减少对你眼睛的伤害。[![Open-Source Software][OSS Icon]](https://github.com/jonls/redshift) ![Freeware][Freeware Icon]
 - [Shutter](http://shutter-project.org/) - Shutter 是基于 Linux 的发行版系统（如 Ubuntu）下的一款功能丰富的屏幕截图程序。![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - 跨平台笔记应用，Evernote 的竞争者。![Freeware][Freeware Icon]
+- [SpeedCrunch](http://www.speedcrunch.org/) - 一款美观、开源、高精度的科学计算器。[![Open-Source Software][OSS Icon]](http://www.speedcrunch.org/) ![Freeware][Freeware Icon]
 - [Springseed](https://github.com/spsdco/notes) - 为日常用户打造的简单漂亮的笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/spsdco/notes) ![Freeware][Freeware Icon]
 - [Stickynote](https://itsfoss.com/indicator-stickynotes-windows-like-sticky-note-app-for-ubuntu/) - Linux 平台下的 Sticky Note 应用。![Freeware][Freeware Icon]
 - [TaskWarrior](https://taskwarrior.org/) - Taskwarrior 是一款免费开源的软件，它可以通过命令行管理你的任务清单。[![Open-Source Software][OSS Icon]](https://git.tasktools.org/projects) ![Freeware][Freeware Icon]
@@ -344,13 +337,12 @@
 
 ### 安全
 - [ClamAV](https://www.clamav.net/) - 反病毒软件包。 ![Freeware][Freeware Icon]
+- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban 会扫描日志文件（如 `/var/log/apache/error_log`），并禁止有恶意迹象（比如太多次密码错误）的 IP，以及搜寻漏洞等。 ![Freeware][Freeware Icon]
 - [GnuPG](https://www.gnupg.org/) - Gnu 隐私护盾。![Freeware][Freeware Icon]
 - [GuFW](http://gufw.org/) - Linux 世界中最简单的防火墙之一。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://code.launchpad.net/gui-ufw)
 - [OpenSSH](http://www.openssh.com/) - OpenSSH 安全 Shell 服务器和客户端。![Freeware][Freeware Icon]
-- [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Fail2ban 会扫描日志文件（如 `/var/log/apache/error_log`），并禁止有恶意迹象（比如太多次密码错误）的 IP，以及搜寻漏洞等。 ![Freeware][Freeware Icon]
 - [Seahorse](https://wiki.gnome.org/Apps/Seahorse) - Seahorse 是 GnuPG 的 Gnome 图形界面前端。![Freeware][Freeware Icon]
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓取工具。l![Freeware][Freeware Icon]
-
 
 ### 文件共享
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让管理 FTP 相关的任务异常轻松。![Freeware][Freeware Icon]
@@ -361,9 +353,9 @@
 - [Flareget](https://flareget.com/) - 全功能、多线程下载管理器和加速器。![Freeware][Freeware Icon]
 - [Meiga](http://meiga.igalia.com/) - 一个可以通过 web 让本地目录共享成为可能的工具。[![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) ![Freeware][Freeware Icon]
 - [ownCloud](https://owncloud.com/products/desktop-clients/) - ownCloud 的目标是无论你身在何处都可以访问你的文件。![Freeware][Freeware Icon]
-- [Quazaa](https://sourceforge.net/projects/quazaa/) - 一个跨平台多网络 P2P 文件共享客户端。![Freeware][Freeware Icon]
 - [PushBullet](https://www.pushbullet.com/) - PushBullet 让你的设备连接成一体。![Freeware][Freeware Icon]
 - [qBittorent](http://www.qbittorrent.org/) - qBittorrent 旨在成为 uTorrent 替代者的免费开源软件。[![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
+- [Quazaa](https://sourceforge.net/projects/quazaa/) - 一个跨平台多网络 P2P 文件共享客户端。![Freeware][Freeware Icon]
 - [SpiderOak](https://spideroak.com/) - 为关心隐私的团队和企业打造的实时协作软件。![Freeware][Freeware Icon]
 - [Syncthing](https://syncthing.net/) - Syncthing 利用开放、值得信赖和分散式的东西替代专有的同步和云服务。[![Open-Source Software][OSS Icon]](https://github.com/syncthing/syncthing) ![Freeware][Freeware Icon]
 - [Teamviewer](https://www.teamviewer.com/ ) - PC 远程控制软件，对于个人可以免费使用。![Freeware][Freeware Icon]
@@ -372,19 +364,17 @@
 - [uTorrent](http://www.utorrent.com) - 优雅、高效的 torrent 下载器。 ![Freeware][Freeware Icon]
 - [Vuze](http://www.vuze.com) - Vuze 是一款满足你进行种子下载一切需求的端到端 Bittorrent 客户端。 ![Freeware][Freeware Icon]
 
-
 ### 终端
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 平台下广泛预装的终端模拟器。![Freeware][Freeware Icon]
 - [Guake](http://guake.org/) - Guake 是 Gnome 桌面环境下的一款“可伸缩”的终端。![Freeware][Freeware Icon]
 - [Konsole](https://konsole.kde.org/) - KDE 桌面环境下最好的终端。![Freeware][Freeware Icon]
-- [RXVT](http://rxvt.sourceforge.net/) - X11 终端模拟器，xterm 流行的替代者。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - RXVT-Unicode fork 自著名的终端模拟器。[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
+- [RXVT](http://rxvt.sourceforge.net/) - X11 终端模拟器，xterm 流行的替代者。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
 - [Sakura](https://launchpad.net/sakura) - 简单却强大的基于 libvte 的终端模拟器，支持 utf-8 编码，以及由 GTK+ 和 pango 库提供的输入法。[![Open-Source Software][OSS Icon]](https://launchpad.net/sakura)![Freeware][Freeware Icon]
 - [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - 很明显，它是 Linux 平台上最强大并且具有填充功能的终端模拟器。![Freeware][Freeware Icon]
 - [Termit](https://github.com/nonstop/termit/wiki) - 基于 vte 库的简单终端模拟器，可通过 Lua 扩展。[![Open-Source Software][OSS Icon]](https://github.com/nonstop/termit/wiki)![Freeware][Freeware Icon]
 - [Xterm](http://invisible-island.net/xterm/) - xterm 程序是 X 视窗系统的终端模拟器。兼容那些不能直接使用视窗系统的 DEC VT102 和 Tektronix 4014 程序。![Freeware][Freeware Icon]
 - [Yakuake](https://yakuake.kde.org/) - 基于 KED Konsole 技术的 Quake 风格的终端模拟器。![Freeware][Freeware Icon]
-
 
 ### 实用工具
 - [Actionaz](http://actionaz.org/) - Ubuntu/Linux 下自动化任务实用工具。![Freeware][Freeware Icon]
@@ -392,33 +382,32 @@
 - [Brasero](https://wiki.gnome.org/Apps/Brasero) - CD/DVD 刻录程。![Freeware][Freeware Icon]
 - [Caffeine](https://launchpad.net/caffeine) - 阻止 Ubuntu 自动睡眠。![Freeware][Freeware Icon]
 - [Clonezilla](http://clonezilla.org/) - Clonezilla 是一个类似于 True Image®  和 Norton Ghost® 的分区和磁盘映像克隆程序。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
+- [Convertall](https://sourceforge.net/projects/convertall/) - 单位换算软件。![Freeware][Freeware Icon]
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke 是 X11 下的鼠标手势识别软件（很不错，个人也很推荐）。[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass 通过安全地管理你的密码和重要信息让你的生活更加轻松。![Freeware][Freeware Icon]
-- [Convertall](https://sourceforge.net/projects/convertall/) - 单位换算软件。![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - 一个以可视化的方式展现磁盘使用情况的工具。 ![Freeware][Freeware Icon]
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换器。 ![Freeware][Freeware Icon]
 - [GParted](http://gparted.org/) - Ubuntu/Linux 下的磁盘分区实用工具。 ![Freeware][Freeware Icon]
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu Linux 平台下的广播软件。[![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
 - [Handbrake](https://handbrake.fr/) - 视频转换器。 ![Freeware][Freeware Icon]
-- [KeePass](https://www.keepass.info/) - Windows 平台下的密码管理器，通过 Mono 提供跨一些跨平台支持。 ![Freeware][Freeware Icon]
-- [KeePassX](https://www.keepassx.org/) - 开源跨平台的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick 是用于修改和进行图片工作的命令行实用工具套件。![Freeware][Freeware Icon]
+- [KeePassX](https://www.keepassx.org/) - 开源跨平台的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
+- [KeePass](https://www.keepass.info/) - Windows 平台下的密码管理器，通过 Mono 提供跨一些跨平台支持。 ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - 跨平台密码管理器。![Freeware][Freeware Icon]
-- [Powertop](https://01.org/powertop/downloads) - 通过能源消耗诊断故障。![Freeware][Freeware Icon]
-- [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 使用自定义配置提升 Linux 音频质量。![Freeware][Freeware Icon]
 - [Peazip](http://www.peazip.org/) - 用于解压任何 zip 格式的文件。![Freeware][Freeware Icon]
+- [Powertop](https://01.org/powertop/downloads) - 通过能源消耗诊断故障。![Freeware][Freeware Icon]
 - [Psensor](http://wpitchoune.net/psensor/) - Linux 平台下图形化的硬件温度监视器。[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) ![Freeware][Freeware Icon]
+- [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 使用自定义配置提升 Linux 音频质量。![Freeware][Freeware Icon]
 - [Remarkable](https://remarkableapp.github.io/) - Ubuntu/Linux 下最佳 Markdown 编辑器。![Freeware][Freeware Icon]
 - [Remmina](http://www.remmina.org/wp/) - Linux 和 其它 Unix 系统平台下的一款功能丰富的远程桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware Icon]
-- [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - 在状态栏显示系统负载。![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic 是图形化 APT 包管理程序（不想使用命令行安装程序的话，推荐使用）。![Freeware][Freeware Icon]
+- [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - 在状态栏显示系统负载。![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - 优化 Linux 电池。![Freeware][Freeware Icon]
 - [Variety](http://peterlevi.com/variety/) - Variety  是一个 Linux 平台下的开源壁纸更换程序，拥有许多很棒的功能同时依旧紧凑易用。[![Open-Source Software][OSS Icon]](https://github.com/peterlevi/variety-slideshow) ![Freeware][Freeware Icon]
 - [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是 x86 硬件平台全虚拟化软件，可用于服务器、桌面系统和嵌入式系统。[![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) ![Freeware][Freeware Icon]
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - 自动更换你的壁纸。![Freeware][Freeware Icon]
 - [Workrave](http://www.workrave.org/) - 一款可以帮助你恢复身体并阻止（肢体）重复性劳损的程序。[![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - 一款在 Linux 平台下很棒的并且拥有全新界面的下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
-
 
 ### 视频
 - [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
@@ -432,7 +421,6 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一款免费开源跨平台的多媒体播放器和框架，它可以播放多数格式的多媒体文件以及 DVD，音频 CD，VCD和各种流协议视频文件。 ![Freeware][Freeware Icon]
 
 ### 其它
-
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - 每个人都可以使用的人工智能（A.I.）平台。 [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 
@@ -443,14 +431,14 @@
 - [htop](http://hisham.hm/htop/) - top 程序的升级版本，拥有更多功能和更佳的使用体验。[![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop)![Freeware][Freeware Icon]
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在终端中玩_食豆小子 Pacman_ 游戏。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - 可以让你轻松切换运行在同一个终端中的几个程序，分离（程序在后台继续运行）和连接它们到一个不同的终端。此外，它还有更多功能等你尝试。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
-- [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)。
 - [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - 命令行版本的 WiFi 连接管理器。
+- [十佳命令行工具](http://lifehacker.com/399468/top-10-command-line-tools)。
 
 ## 桌面环境
 - [Budgie](https://solus-project.com/budgie/) - Budgie 是一个为现代用户设计的桌面环境，强调简单优雅。[![Open-Source Software][OSS Icon]](https://github.com/solus-project/budgie-desktop) ![Freeware][Freeware Icon]
 - [Cinammon](http://cinnamon.linuxmint.com/) - Cinnamon 努力提供传统的用户体验。Cinnamon fork 自 GNOME 3。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/Cinnamon) ![Freeware][Freeware Icon]
-- [Gnome](https://www.gnome.org/gnome-3/) - GNOME 是诱人而直观的桌面环境，提供现代和经典 GNOME 的桌面。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
 - [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback 是 GNOME 3 的外壳，它最初称为 GNOME 的后备模式。该桌面布局和底层技术与 GNOME 2 类似。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-flashback) ![Freeware][Freeware Icon]
+- [Gnome](https://www.gnome.org/gnome-3/) - GNOME 是诱人而直观的桌面环境，提供现代和经典 GNOME 的桌面。 [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-desktop) ![Freeware][Freeware Icon]
 - [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/) - KDE Plasma 桌面环境提供了让人熟悉的工作环境。它提供了现代桌面计算体验所需要的各种工具，所以，你从一开始就能够高效工作。 [![Open-Source Software][OSS Icon]](https://github.com/KDE/plasma-desktop) ![Freeware][Freeware Icon]
 - [LXDE](http://lxde.org/) - 轻量级 X11 桌面环境（LXDE）是一个快速节能的桌面环境。[![Open-Source Software][OSS Icon]](https://github.com/lxde) ![Freeware][Freeware Icon]
 - [LXQt](http://lxqt.org/) - LXQt 是基于 Qt 技术的即将到来的 LXDE 版本。[![Open-Source Software][OSS Icon]](https://github.com/lxde/lxqt) ![Freeware][Freeware Icon]
@@ -458,7 +446,6 @@
 - [Pantheon](https://elementary.io/) - Pantheon 最初是 elmentary 系统发行版默认的桌面环境。 ![Freeware][Freeware Icon]
 - [Unity](https://unity.ubuntu.com/) - Unity 是由 Cnaonical 为 Ubuntu 设计的 GNOME Shell。![Freeware][Freeware Icon]
 - [Xfce](https://www.xfce.org/) - Xfce 体现了传统 UNIX 设计哲学：模块化与复用。 [![Open-Source Software][OSS Icon]](https://github.com/xfce-mirror) ![Freeware][Freeware Icon]
-
 
 ## 显示管理器
 
@@ -483,7 +470,6 @@
 ### 窗口组合管理器
 - [Compton](https://github.com/chjj/compton) - Compton 是一个独立的窗口组合管理器，适用于没有原生支持窗口组合功能的窗口管理器。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 
-
 ### 栈式窗口管理器
 - [2bwm](https://github.com/venam/2bwm) - 快速浮动窗口管理器，拥有两个特别的边界，基于 XCB 库编写，衍生自 mcwm。[![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
 - [Blackbox](http://blackboxwm.sourceforge.net) - X 视窗系统下的快速、轻量级窗口管理器，完全没有各种恼人的库依赖问题。 [![Open-Source Software][OSS Icon]](https://github.com/bbidulock/blackboxwm) ![Freeware][Freeware Icon]
@@ -500,8 +486,6 @@
 - [i3](https://i3wm.org) - 完全从头开始编写的平铺式窗口管理器。 [![Open-Source Software][OSS Icon]](https://github.com/i3/i3) ![Freeware][Freeware Icon]
 - [spectrwm](https://github.com/conformal/spectrwm/wiki) - 小型 X11 动态窗口管理器，很大程度上受到 xmonad 和 dwm 的影响。[![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) ![Freeware][Freeware Icon]
 - [xmonad](http://xmonad.org) - 使用 Haskell 编写和配置的 X11 动态窗口管理器。 [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) ![Freeware][Freeware Icon]
-
-
 
 ## 配置
 
