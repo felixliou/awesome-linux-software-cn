@@ -7,11 +7,11 @@
 ## 介绍
 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便**用户**或**开发者**查阅。
 
-[Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
 本文档已使用 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
 
-**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) `https://github.com/chrisleegit/awesome-linux-software-cn` 获取其最新版本。
+**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) `https://github.com/chrisleegit/awesome-linux-software-cn` 获取其最新版本。
 
 
 ## 目录
@@ -56,7 +56,7 @@
 	- [ArchLinux](#arch-linux)
 - [杂项](#杂项)
 - [交流论坛](#交流论坛)
-    - [Ubuntu](#apple)
+    - [Ubuntu](#ubuntu-1)
     - [IRC 频道](#irc-频道)
     - [Linux 新闻与应用等](#linux-新闻与应用等)
     - [Reddit](#reddit)
@@ -302,11 +302,14 @@
 - [WPS office](http://wps-community.org/) - Linux 平台下最佳办公套件之一。![Freeware][Freeware Icon]
 
 ### 生产力
+- [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是 GNOME 下的一款功能丰富的闹钟应用。[![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) ![Freeware][Freeware Icon]
 - [Ambient Noise](https://itsfoss.com/ambient-noise-music-player-ubuntu/) - 在 Linux 安装 Ambient Noise，让你更加专注生产工作。![Freeware][Freeware Icon]
 - [Autokey](https://code.google.com/archive/p/autokey/) - Linux 平台下桌面自动化实用工具，它可以让你管理脚本和短语集合，并且可以给它们设定缩写和快捷键。![Freeware][Freeware Icon]
 - [Basket Note Pads](http://basket.kde.org/) - 多功能笔记类应用，可以帮助你轻松地记录各种笔记。 [![Open-Source Software][OSS Icon]](http://basket.kde.org/svnaccess.php) ![Freeware][Freeware Icon]
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 亮度指示器。![Freeware][Freeware Icon]
+- [Cairo-Dock](http://glx-dock.org/) - 一款华丽的 Dock 应用（和 Mac OS X 上的 Dock 类似），支持多个面板和 desklets 等。 [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) ![Freeware][Freeware Icon]
 - [California](https://wiki.gnome.org/Apps/California) - 完整的日历应用替代者，它可以使用自然语言创建事件。![Freeware][Freeware Icon]
+- [Docky](www.go-docky.com/) - 号称花钱也买不到的 Dock 程序，占用资源少，优雅简洁。[![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是高级剪切板管理器，支持编辑和脚本功能。![Freeware][Freeware Icon]
 - [f.lux](https://justgetflux.com/linux.html) - 自动根据光线调节你的电脑屏幕亮度。 ![Freeware][Freeware Icon]
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下强大的字典应用。![Freeware][Freeware Icon]
@@ -345,6 +348,7 @@
 - [Tcpdump](http://www.tcpdump.org/) - TCP 调试/抓取工具。l![Freeware][Freeware Icon]
 
 ### 文件共享
+- [aria2](https://aria2.github.io/) - aria2 是一个轻量级支持多种协议和多种来源的命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让管理 FTP 相关的任务异常轻松。![Freeware][Freeware Icon]
 - [D-lan](http://www.d-lan.net/) - 免费局域网共享软件。![Freeware][Freeware Icon]
 - [Deluge](http://deluge-torrent.org/) - Deluge 是一个轻量级、免费、跨平台的 BitTorrent 客户端（类似著名的 uTorrent）。[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
@@ -386,11 +390,13 @@
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke 是 X11 下的鼠标手势识别软件（很不错，个人也很推荐）。[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass 通过安全地管理你的密码和重要信息让你的生活更加轻松。![Freeware][Freeware Icon]
 - [GD map](http://gdmap.sourceforge.net/) - 一个以可视化的方式展现磁盘使用情况的工具。 ![Freeware][Freeware Icon]
+- [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - 文件快速预览程序。类似于 [Sushi](https://github.com/GNOME/sushi) [![Open-Source Software][OSS Icon]](https://github.com/antonio-malcolm/gloobus-preview) ![Freeware][Freeware Icon].
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换器。 ![Freeware][Freeware Icon]
 - [GParted](http://gparted.org/) - Ubuntu/Linux 下的磁盘分区实用工具。 ![Freeware][Freeware Icon]
 - [GRadio](https://github.com/haecker-felix/gradio/releases/) - Ubuntu Linux 平台下的广播软件。[![Open-Source Software][OSS Icon]](https://github.com/haecker-felix/gradio/releases/) ![Freeware][Freeware Icon]
 - [Handbrake](https://handbrake.fr/) - 视频转换器。 ![Freeware][Freeware Icon]
 - [ImageMagik](http://www.imagemagick.org/script/index.php) - ImageMagick 是用于修改和进行图片工作的命令行实用工具套件。![Freeware][Freeware Icon]
+- [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - 该程序会在 Ubuntu 的顶栏显示系统的 CPU 温度、内存使用、网络速度（要的就是这个）、CPU 使用率、公网 IP 和网络连接状态等。[![Open-Source Software][OSS Icon]](https://github.com/fossfreedom/indicator-sysmonitor) ![Freeware][Freeware Icon]
 - [KeePassX](https://www.keepassx.org/) - 开源跨平台的密码管理器。[![Open-Source Software][OSS Icon]](https://github.com/keepassx/keepassx) ![Freeware][Freeware Icon]
 - [KeePass](https://www.keepass.info/) - Windows 平台下的密码管理器，通过 Mono 提供跨一些跨平台支持。 ![Freeware][Freeware Icon]
 - [LastPass](https://lastpass.com/misc_download2.php) - 跨平台密码管理器。![Freeware][Freeware Icon]
@@ -399,7 +405,8 @@
 - [Psensor](http://wpitchoune.net/psensor/) - Linux 平台下图形化的硬件温度监视器。[![Open-Source Software][OSS Icon]](http://git.wpitchoune.net/psensor.git/) ![Freeware][Freeware Icon]
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 使用自定义配置提升 Linux 音频质量。![Freeware][Freeware Icon]
 - [Remarkable](https://remarkableapp.github.io/) - Ubuntu/Linux 下最佳 Markdown 编辑器。![Freeware][Freeware Icon]
-- [Remmina](http://www.remmina.org/wp/) - Linux 和 其它 Unix 系统平台下的一款功能丰富的远程桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware Icon]
+- [Remmina](http://www.remmina.org/wp/) - Linux 和 其它 Unix 系统平台下的一款功能丰富的远程桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware  Icon]
+- [Sushi](https://github.com/GNOME/sushi) - Sushi 是 Nautilus 文件管理器用的快速预览程序，支持多种格式文件快速预览（本人比较喜欢的一款小工具）。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) ![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic 是图形化 APT 包管理程序（不想使用命令行安装程序的话，推荐使用）。![Freeware][Freeware Icon]
 - [Systemload](http://www.omgubuntu.co.uk/2014/06/system-monitor-indicator-ubuntu-ppa) - 在状态栏显示系统负载。![Freeware][Freeware Icon]
 - [TLP](http://linrunner.de/en/tlp/docs/tlp-linux-advanced-power-management.html) - 优化 Linux 电池。![Freeware][Freeware Icon]
@@ -469,6 +476,7 @@
 
 ### 窗口组合管理器
 - [Compton](https://github.com/chjj/compton) - Compton 是一个独立的窗口组合管理器，适用于没有原生支持窗口组合功能的窗口管理器。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr 是一个简单的窗口组合管理器，它支持拖拽阴影渲染并且原生支持窗口透明（使用了 transset 工具实现）。[![Open-Source Software][OSS Icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) ![Freeware][Freeware Icon]
 
 ### 栈式窗口管理器
 - [2bwm](https://github.com/venam/2bwm) - 快速浮动窗口管理器，拥有两个特别的边界，基于 XCB 库编写，衍生自 mcwm。[![Open-Source Software][OSS Icon]](https://github.com/venam/2bwm) ![Freeware][Freeware Icon]
@@ -583,7 +591,7 @@
     1. 给出你推荐的应用名称，并给出它的**主页**或者安装**指南**链接。
     1. 你需要为你推荐的应用写上**简介**，并添加小图标（![开源软件][OSS Icon] 代表开源软件，请在后面给出开源代码仓库的链接；![免费软件][Freeware Icon] 则代表免费软件）。
     1. 将你推荐的应用添加到合适的分类标题下，如果没有合适的分类标题，你可以创建一个新的分类标题（完了记得更新目录）。
-    1. 请确保新增的条目在合适的分类标题下，并保证排序正确，这样方便查阅。一切完毕后，请提交 Pull Request。
+    1. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py] 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
     
 1. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。最后，也希望你能多推荐一些更适合国人使用的应用程序，谢谢！
 
