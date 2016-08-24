@@ -75,6 +75,7 @@
 
 
 
+
 ## 应用程序
 
 ### 音频
@@ -96,6 +97,7 @@
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - GNOME 音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - GNOME 环境下的 CD 抓取工具 ![Freeware][Freeware Icon]
 - [Tomahawk](https://www.tomahawk-player.org/) -一种全新的音乐播放器，它将你所有的数据流、下载、云音乐存储、播放列表、电台等集结在一起。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
+- [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - 包装了 web Skype 的开源应用。[![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
@@ -304,6 +306,7 @@
 
 ### 办公
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
+- [bcloud](https://github.com/LiuLang/bcloud) - bcloud 是百度网盘的 Linux 桌面客户端，支持多种主流的 Linux 发行版。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LiuLang/bcloud)
 - [Caligra Office](https://www.calligra.org/) - 提供了一个包含 8 款应用的综合系列，可以满足办公、图像和管理需求。![Freeware][Freeware Icon]
 - [GnuCash](https://www.gnucash.org/) - GnuCash 是一款实现了复试记账系统的免费会计软件。它最初旨在开发兼容 Intuit（Inc.'s Quicken application，公司提升效率应用） 类似的功能，但它针对小型企业会计提供了一些特有功能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 环境下的个人金融管家。它和微软 Money 和 Quiken 应用操作类似。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
