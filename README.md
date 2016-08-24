@@ -444,6 +444,7 @@
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - 每个人都可以使用的人工智能（A.I.）平台。 [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
+- [Infinality bundle & fonts](https://bohoomil.com/) - 该项目为开源免费项目，旨在为 Linux 管理员以及独立用户提供改善字体渲染一站式的服务。[![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) ![Freeware][Freeware Icon]
 
 ## 命令行实用工具
 - [Bastet](https://github.com/fph/bastet) - 在命令行中玩俄罗斯方块游戏（Tetris）。[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
@@ -484,7 +485,7 @@
 - [MDM](https://github.com/linuxmint/mdm) - MDM 显示管理器，用于 Linux Mint，fork 自 GDM 2。[![Open-Source Software][OSS Icon]](https://github.com/linuxmint/mdm) ![Freeware][Freeware Icon]
 - [SDDM](https://github.com/sddm/sddm) - 基于 QML 编写的显示管理器，KDE4 的 KDM 继承者；推荐用于 Plasma 5 和 LXQt。[![Open-Source Software][OSS Icon]](https://github.com/sddm/sddm) ![Freeware][Freeware Icon]
 - [SLiM](http://sourceforge.net/projects/slim.berlios/) - 轻量级、优雅的图形登录解决方案（已停用）。[![Open-Source Software][OSS Icon]](https://github.com/gsingh93/slim-display-manager) ![Freeware][Freeware Icon]
-- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 支持 XDMCP 和 主机选择器的 X 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
+- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - 支持 XDMCP 和主机选择器的 X 显示管理器。[![Open-Source Software][OSS Icon]](https://github.com/bbidulock/xdm) ![Freeware][Freeware Icon]
 
 ## 窗口管理器
 
@@ -519,6 +520,7 @@
 - [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
 - [Windows 与 Ubuntu 如何多重引导](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
 - [安装 Ubuntu 后你该做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [Ubuntu 14.04 安装 infinality 字体美化插件](http://www.lulinux.com/archives/211)
 
 ### Arch Linux
 - [入门指南](https://wiki.archlinux.org/index.php/Beginners%27_guide)
@@ -537,6 +539,8 @@
 
 * [Ubuntu Forum](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
+* [Ubuntu 中文论坛](https://forum.ubuntu.org.cn/)
+* [Ubuntu 中文 WiKi](http://wiki.ubuntu.org.cn/Ubuntu%E4%B8%AD%E6%96%87:%E7%A4%BE%E5%8C%BA)
 
 ### Arch Linux
 
