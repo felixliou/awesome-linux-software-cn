@@ -5,9 +5,11 @@
 ![Tux](https://cloud.githubusercontent.com/assets/6733770/17458846/b8cca9ae-5bf7-11e6-85ba-e6f2461e82de.jpg)
 
 ## 介绍
-[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便**用户**或**开发者**查阅。
+[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
 
 [Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+
+另外一个中文版本请参见 [这里](https://github.com/alim0x/Awesome-Linux-Software-zh_CN)。之所以会出现两份翻译版本，主要是因为在开始前没有非常仔细地搜索 GitHub 以查找类似项目（其实我找了，但是可能那个时候那个中文版本排名不靠前，所以被忽略了）。**需要注意的是，这个中文版本是基于原英文版本翻译，但是更主要的是想在本文档中添加一些更适合国人使用的应用或中文阅读资料。当然，这也需要更多国内的 Linux 爱好者帮助完善，谢谢！**
 
 本文档已使用 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
 
@@ -591,15 +593,15 @@
     1. 给出你推荐的应用名称，并给出它的**主页**或者安装**指南**链接。
     1. 你需要为你推荐的应用写上**简介**，并添加小图标（![开源软件][OSS Icon] 代表开源软件，请在后面给出开源代码仓库的链接；![免费软件][Freeware Icon] 则代表免费软件）。
     1. 将你推荐的应用添加到合适的分类标题下，如果没有合适的分类标题，你可以创建一个新的分类标题（完了记得更新目录）。
-    1. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py] 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
+    1. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py](./auto_sort/asort.py) 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
     
-1. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。最后，也希望你能多推荐一些更适合国人使用的应用程序，谢谢！
+1. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。**最后，也希望你能多推荐一些更适合国人使用的应用程序和资料，谢谢！**
 
 
 ## 许可协议
 [![知识共享许可](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-本文档采用 [创作共用署名4.0国际许可证](http://creativecommons.org/licenses/by/4.0/) 进行许可。
+本文档采用 [创作共用署名4.0国际许可协议](http://creativecommons.org/licenses/by/4.0/) 进行许可。
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
