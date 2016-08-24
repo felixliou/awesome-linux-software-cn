@@ -73,6 +73,7 @@
 
 
 
+
 ## 应用程序
 
 ### 音频
@@ -164,6 +165,7 @@
 - [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
 - [QT Creator](https://www.qt.io/ide/) - 全能型跨平台集成开发环境，用于轻松地创建连接设备、用户界面（UI）和应用程序。![Freeware][Freeware Icon]
 - [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS 是一组图形化工具的集合，用于简单直接地访问你使用的版本控制系统。 [![Open-Source Software][OSS Icon]](https://github.com/rabbitvcs/rabbitvcs) ![Freeware][Freeware Icon]
+- [Sloeber IDE](http://eclipse.baeyens.it/) - Sloeber IDE 是基于 Eclipse 的 Arduino IDE，我非常喜欢。[![Open-Source Software][OSS Icon]](https://github.com/jantje/arduino-eclipse-plugin) ![Freeware][Freeware Icon]
 - [Sqlite Browser](http://sqlitebrowser.org/) - 以可视化的方式创建、管理和查看 sqlite 数据库文件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser)
 - [Swift](https://swift.org/download/) - Swift 是一种使用现代方法构建的通用编程语言，强调安全、性能和设计模式。 ![Freeware][Freeware Icon]
 - [Ubuntu-SDK](https://developer.ubuntu.com/en/phone/platform/sdk/installing-the-sdk/) - 官方的 Ubuntu SDK。 ![Freeware][Freeware Icon]
