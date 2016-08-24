@@ -39,6 +39,7 @@
     - [终端](#终端)
     - [实用工具](#实用工具)
     - [视频](#视频)
+    - [输入法](#输入法)
     - [其它](#其它)
 - [命令行实用工具](#命令行实用工具)
 - [桌面环境](#桌面环境)
@@ -67,6 +68,9 @@
 - [贡献](#贡献)
 
 ***********
+
+
+
 
 
 ## 应用程序
@@ -203,6 +207,7 @@
 - [GPeriodic](http://gperiodic.seul.org/) - GPeriodic 是 Linux 平台下的**元素周期表（periodic table）**程序。![Freeware][Freeware Icon]
 - [ITalc](https://github.com/iTALC/italc/releases) - iTALC 是为教师准备的强大的教学工具，它可以让你用若干种方式控制你的网络中的其它计算机。[![Open-Source Software][OSS Icon]](https://github.com/iTALC/italc)![Freeware][Freeware Icon]
 - [KDE Edu Suite](https://edu.kde.org/) - 基于 KDE 技术的免费教育软件。![Freeware][Freeware Icon]
+- [Ktouch](https://github.com/KDE/ktouch) - KTouch 是一款学习和练习打字的软件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/ktouch)
 - [MAPLE](http://www.maplesoft.com/products/maple/) - Maple 是一款整合了世界上最强大的数学引擎并带有界面的软件，它可以让你非常轻松地分析、研究、可视化和解决各种数学问题。
 - [MATLAB](http://www.mathworks.com/products/matlab/?requestedDomain=www.mathworks.com) - MATLAB 平台专门为解决各种工程和科学问题进行了优化，它可以帮助将你的思想带出桌面电脑。你可以在更大的数据集中进行分析，并扩展到集群和云中。
 - [Maxima](http://maxima.sourceforge.net/) - Maxima 是一个用于符合和数值表达式操作的系统，包括求导、集成、泰勒级数、拉普拉斯变换、唱微分方程、线性方程组等。[![Open-Source Software][OSS Icon]](http://maxima.sourceforge.net/project.html)![Freeware][Freeware Icon]
@@ -311,8 +316,8 @@
 - [Brightness](https://launchpad.net/indicator-brightness) - Ubuntu 亮度指示器。![Freeware][Freeware Icon]
 - [Cairo-Dock](http://glx-dock.org/) - 一款华丽的 Dock 应用（和 Mac OS X 上的 Dock 类似），支持多个面板和 desklets 等。 [![Open-Source Software][OSS Icon]](https://github.com/Cairo-Dock) ![Freeware][Freeware Icon]
 - [California](https://wiki.gnome.org/Apps/California) - 完整的日历应用替代者，它可以使用自然语言创建事件。![Freeware][Freeware Icon]
-- [Docky](www.go-docky.com/) - 号称花钱也买不到的 Dock 程序，占用资源少，优雅简洁。[![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
 - [CopyQ](http://hluk.github.io/CopyQ/) -CopyQ 是高级剪切板管理器，支持编辑和脚本功能。![Freeware][Freeware Icon]
+- [Docky](www.go-docky.com/) - 号称花钱也买不到的 Dock 程序，占用资源少，优雅简洁。[![Open-Source Software][OSS Icon]](https://launchpad.net/docky/+download) ![Freeware][Freeware Icon]
 - [f.lux](https://justgetflux.com/linux.html) - 自动根据光线调节你的电脑屏幕亮度。 ![Freeware][Freeware Icon]
 - [Gnome-dictionary](https://wiki.gnome.org/Apps/Dictionary) - GNOME 下强大的字典应用。![Freeware][Freeware Icon]
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It 是一款简单又时尚的生产力应用，支持任务清单功能，它整合了一个定时器可以让你专注于当前任务。![Freeware][Freeware Icon]
@@ -428,6 +433,11 @@
 - [SMPlayer](http://smplayer.sourceforge.net/) - 内置解码器的免费媒体播放器。可以播放所有格式的音频和视频。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)![Freeware][Freeware Icon]
 - [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP  采用帧内插（在高端电视和投影仪上都可用）的方法允许你在你的桌面电脑上观看任何视频。![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - VLC 是一款免费开源跨平台的多媒体播放器和框架，它可以播放多数格式的多媒体文件以及 DVD，音频 CD，VCD和各种流协议视频文件。 ![Freeware][Freeware Icon]
+
+### 输入法
+- [Fctix](https://fcitx-im.org/wiki/Fcitx) - Fcitx 是一个支持扩展的输入法框架，支持好几种输入法。 [![Open-Source Software][OSS Icon]](http://code.google.com/p/fcitx)![Freeware][Freeware Icon]
+- [IBus](https://github.com/ibus/ibus) - IBus 全称 Intelligent Input Bus是下一代输入法框架（或者说“平台”），支持多种输入法。[![Open-Source Software][OSS Icon]](https://github.com/ibus/ibus)![Freeware][Freeware Icon]
+- [Sougou PinYin](http://pinyin.sogou.com/linux/?r=pinyin) - 个人认为是 Ubuntu/Linux 平台下最好的中文输入法了，使用 Fctix 输入法框架。![Freeware][Freeware Icon]
 
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
