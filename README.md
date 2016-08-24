@@ -74,6 +74,7 @@
 
 
 
+
 ## 应用程序
 
 ### 音频
@@ -443,8 +444,8 @@
 
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
-- [Mycroft](https://github.com/MycroftAI/mycroft-core) - 每个人都可以使用的人工智能（A.I.）平台。 [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 - [Infinality bundle & fonts](https://bohoomil.com/) - 该项目为开源免费项目，旨在为 Linux 管理员以及独立用户提供改善字体渲染一站式的服务。[![Open-Source Software][OSS Icon]](https://github.com/bohoomil/fontconfig-ultimate) ![Freeware][Freeware Icon]
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - 每个人都可以使用的人工智能（A.I.）平台。 [![Open-Source Software][OSS Icon]](https://github.com/MycroftAI/mycroft-core) ![Freeware][Freeware Icon]
 
 ## 命令行实用工具
 - [Bastet](https://github.com/fph/bastet) - 在命令行中玩俄罗斯方块游戏（Tetris）。[![Open-Source Software][OSS Icon]](https://github.com/fph/bastet)![Freeware][Freeware Icon]
