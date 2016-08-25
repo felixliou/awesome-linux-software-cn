@@ -1,4 +1,5 @@
 # Linux 优秀软件资源大全中文版
+---------------------------
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChrisLeeGit/awesome-linux-software-cn)
 
@@ -15,7 +16,7 @@
 
 **提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) `https://github.com/chrisleegit/awesome-linux-software-cn` 获取其最新版本。
 
-
+-------------------------------
 ## 目录
 
 - [应用程序](#应用程序)
@@ -68,12 +69,6 @@
 - [贡献](#贡献)
 
 ***********
-
-
-
-
-
-
 
 
 ## 应用程序
@@ -204,6 +199,7 @@
 - [Celestia](http://celestiaproject.net/) - 免费的太空模拟器，可以让你在三维空间中探索我们的宇宙。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/celestia/files/Celestia-source/1.6.1/celestia-1.6.1.tar.gz/download)![Freeware][Freeware Icon]
 - [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool 是 Linux 平台下一款小巧的软件，用于绘制化学结构。[![Open-Source Software][OSS Icon]](https://github.com/opp11/chemtool/blob/master/README.md)![Freeware][Freeware Icon]
 - [Epoptes](http://www.epoptes.org/) - 一个开源的计算机实验室管理和监控工具。 [![Open-Source Software][OSS Icon]](https://code.launchpad.net/epoptes)![Freeware][Freeware Icon]
+- [GAP](http://www.gap-system.org/) - 一个用于计算离散代数的计算机代数系统，特别专注于计算群论（computational group theory）领域。 [![Open-Source Software][OSS Icon]](https://github.com/gap-system/gap)![Freeware][Freeware Icon]
 - [Gcompris](http://gcompris.net/index-en.html) - GCompris 是一个高质量的教育软件套件，包含了针对 2 岁到 10 岁孩子的众多活动（activities）。[![Open-Source Software][OSS Icon]](http://gcompris.net/wiki/Developer%27s_corner)![Freeware][Freeware Icon]
 - [Geogebra](https://www.geogebra.org/download) - 一款图形化计算器，可以进行函数、几何、代数、微积分、统计以及 3D 数学运算。 ![Freeware][Freeware Icon]
 - [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - 基于 ncurses 的免费软件，你的打字导师。[![Open-Source Software][OSS Icon]](http://ftp.gnu.org/gnu/gtypist/)![Freeware][Freeware Icon]
@@ -219,9 +215,12 @@
 - [Moodle](https://download.moodle.org/) - 在线学习课程管理系统。[![Open-Source Software][OSS Icon]](https://github.com/moodle/moodle)![Freeware][Freeware Icon]
 - [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide 是一个 2D 几何软件：通过描述正式的几何限制来动态定义数据。 ![Freeware][Freeware Icon]
 - [OpenSIS](http://www.opensis.com/home) - 学校管理软件。
+- [PARI/GP](http://pari.math.u-bordeaux.fr/) - 一种针对数论中的快速计算(大数分解，代数数论，椭圆曲线...) 而设计的广泛应用的计算机代数系统。[![Open-Source Software][OSS Icon]](http://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary)![Freeware][Freeware Icon]
+- [SageMath](http://www.sagemath.org/) - 一款优秀的数学应用，它的功能涵盖多个数学领域，包括代数、组合数学、计算数学、数论和微积分。[![Open-Source Software][OSS Icon]](https://git.sagemath.org/sage.git/)![Freeware][Freeware Icon]
 - [Scipy](https://scipy.org/install.html) - SciPy 是一个基于 Python 生态系统的开源软件，用于数学、科学和工程。[![Open-Source Software][OSS Icon]](https://scipy.org/stackspec.html#stackspec)![Freeware][Freeware Icon]
 - [Scratch](https://scratch.mit.edu/) - 使用 Scratch，你可以为你自己的交互式故事、游戏和动画进行编程，然后可以通过在线社区和其他人分享你的创作。![Freeware][Freeware Icon]
 - [Stellarium](http://www.stellarium.org/) - Stellarium 是一个免费开源的天文馆软件。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/stellarium/code/HEAD/tree/)![Freeware][Freeware Icon]
+- [TeXmacs](http://www.texmacs.org/) - 一款所见即所得的科学文本编辑器，并可用作一系列计算机代数系统的前端。[![Open-Source Software][OSS Icon]](https://savannah.gnu.org/projects/texmacs)![Freeware][Freeware Icon]
 - [Tux4Kids](http://tux4kids.alioth.debian.org/) - Tux4Kids 为孩子们开发高质量的软件，目标是在一个不可抗拒的软件包中结合乐趣与学习。[![Open-Source Software][OSS Icon]](http://tux4kids.alioth.debian.org/dev.php)![Freeware][Freeware Icon]
 - [UGENE](http://ugene.net/) - UGENE 是一款免费开源跨平台集成 GUI 的生物信息学（bioinformatics）软件。[![Open-Source Software][OSS Icon]](https://github.com/ugeneunipro/ugene)![Freeware][Freeware Icon]
 
