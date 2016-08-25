@@ -41,6 +41,7 @@
     - [实用工具](#实用工具)
     - [视频](#视频)
     - [输入法](#输入法)
+    - [代理](#代理)
     - [其它](#其它)
 - [命令行实用工具](#命令行实用工具)
 - [桌面环境](#桌面环境)
@@ -69,6 +70,7 @@
 - [贡献](#贡献)
 
 ***********
+
 
 
 
@@ -447,6 +449,11 @@
 - [Fctix](https://fcitx-im.org/wiki/Fcitx) - Fcitx 是一个支持扩展的输入法框架，支持好几种输入法。 [![Open-Source Software][OSS Icon]](http://code.google.com/p/fcitx)![Freeware][Freeware Icon]
 - [IBus](https://github.com/ibus/ibus) - IBus 全称 Intelligent Input Bus是下一代输入法框架（或者说“平台”），支持多种输入法。[![Open-Source Software][OSS Icon]](https://github.com/ibus/ibus)![Freeware][Freeware Icon]
 - [Sougou PinYin](http://pinyin.sogou.com/linux/?r=pinyin) - 个人认为是 Ubuntu/Linux 平台下最好的中文输入法了，使用 Fctix 输入法框架。![Freeware][Freeware Icon]
+
+### 代理
+- [Privoxy](https://www.privoxy.org/) - Privoxy 是一个无缓存 web 代理工具，它支持高级的过滤功能，用于增强隐私保护、修改 web 页面数据以及 HTTP 头，控制访问以及移除广告和其它惹人厌烦的网络垃圾。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
+- [ProxyChains](https://github.com/haad/proxychains) - 这是一款很实用的程序，它可以强制将任何程序发起的 TCP 连接重定向到像 TOR 或者任何其它的 SOCKS4, SOCKS5 或者 HTTP(S) 代理，从而实现代理访问。[![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
+- [Shadowsocks](https://shadowsocks.org/en/index.html) - 安全 socks5 代理软件（分为服务器和客户端程序），旨在保护你的网络访问。适合国内用户翻越 GFW。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
 
 ### 其它
 - [GrubCustomizer](https://launchpad.net/grub-customizer) - 这是一个可以配置 GRUB2/BURG 的设置和菜单的图形化程序。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/grub-customizer) ![Freeware][Freeware Icon]
