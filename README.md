@@ -57,10 +57,14 @@
 ***********
 
 - [配置](#配置)
-	- [Ubuntu](#ubuntu)
 	- [ArchLinux](#arch-linux)
+	- [openSUSE](#opensuse)
+	- [Ubuntu](#ubuntu)
+	
 - [杂项](#杂项)
 - [交流论坛](#交流论坛)
+    - [ArchLinux](#arch-linux)
+    - [openSUSE](#opensuse-1)
     - [Ubuntu](#ubuntu-1)
     - [IRC 频道](#irc-频道)
     - [Linux 新闻与应用等](#linux-新闻与应用等)
@@ -526,15 +530,8 @@
 
 ## 配置
 
-### Ubuntu
-
 - [Linux 是什么](https://www.linux.com/what-is-linux)
 - [基本 Linux 术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Ubuntu 是什么](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
-- [Windows 与 Ubuntu 如何多重引导](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
-- [安装 Ubuntu 后你该做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
-- [Ubuntu 14.04 安装 infinality 字体美化插件](http://www.lulinux.com/archives/211)
 
 ### Arch Linux
 - [入门指南](https://wiki.archlinux.org/index.php/Beginners%27_guide)
@@ -542,12 +539,38 @@
 - [一般建议](https://wiki.archlinux.org/index.php/General_recommendations)
 - [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### openSUSE
+
+- [openSUSE 是什么](https://www.techopedia.com/definition/28543/opensuse)
+- [尝试 openSUSE 的理由](http://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
+- [初学者 FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
+- [如何安装 openSUSE](https://en.opensuse.org/Portal:Installation)
+- [回顾](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
+
+
+### Ubuntu
+
+- [Ubuntu 是什么](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+- [如何安装 Ubuntu](http://www.ubuntu.com/download/desktop/install-ubuntu-desktop)
+- [Windows 与 Ubuntu 如何多重引导](http://www.everydaylinuxuser.com/2014/05/install-ubuntu-1404-alongside-windows.html)
+- [安装 Ubuntu 后你该做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
+- [Ubuntu 14.04 安装 infinality 字体美化插件](http://www.lulinux.com/archives/211)
+
+
 ### 其它发行版
 
 > 等待添加
 
 
 ## 交流论坛
+### Arch Linux
+
+* [Arch Linux 论坛](https://bbs.archlinux.org/)
+* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
+
+### openSUSE
+* [openSUSE Forum](https://forums.opensuse.org/forum.php)
+* [openSUSE 中文论坛](https://forum.suse.org.cn/)
 
 ### Ubuntu
 
@@ -556,10 +579,6 @@
 * [Ubuntu 中文论坛](https://forum.ubuntu.org.cn/)
 * [Ubuntu 中文 WiKi](http://wiki.ubuntu.org.cn/Ubuntu%E4%B8%AD%E6%96%87:%E7%A4%BE%E5%8C%BA)
 
-### Arch Linux
-
-* [Arch Linux 论坛](https://bbs.archlinux.org/)
-* [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
 ### IRC 频道
 
