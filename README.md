@@ -71,6 +71,7 @@
 ***********
 
 
+
 ## 应用程序
 
 ### 音频
@@ -427,6 +428,9 @@
 - [WallpaperChange](https://apps.ubuntu.com/cat/applications/raring/wallch/) - 自动更换你的壁纸。![Freeware][Freeware Icon]
 - [Workrave](http://www.workrave.org/) - 一款可以帮助你恢复身体并阻止（肢体）重复性劳损的程序。[![Open-Source Software][OSS Icon]](https://github.com/rcaelers/workrave) ![Freeware][Freeware Icon]
 - [Xtreme Download Manager](http://xdman.sourceforge.net/) - 一款在 Linux 平台下很棒的并且拥有全新界面的下载管理器。[![Open-Source Software][OSS Icon]](https://github.com/KaOS-Community-Packages/xdm) ![Freeware][Freeware Icon]
+- [优客农历](http://www.ubuntukylin.com/application/show.php?lang=cn&id=269) - 支持农历的日历程序。原为 Ubuntu Kylin 打造，可用于 Ubuntu 系统。![Freeware][Freeware Icon]
+- [优客助手](http://www.ubuntukylin.com/application/show.php?lang=cn&id=268) - 为 Ubuntu Kylin （当然可用于 Ubuntu 啦）用户打造的系统级管理与配置工具，具备强大的系统信息展示、一键垃圾清理、系统定制美化等功能，让您的桌面更加流畅、易用而富有个性。![Freeware][Freeware Icon]
+- [优客天气](http://www.ubuntukylin.com/application/show.php?lang=cn&id=270) - 根据国家气象局权威信息发布天气预报，并实时展示关注城市的PM2.5信息。![Freeware][Freeware Icon]
 
 ### 视频
 - [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
