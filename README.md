@@ -71,11 +71,12 @@
     - [Reddit](#reddit)
 - [Linux 学习](#linux-学习)
 - [Linux Hacking 或开发](#linux-hacking-或开发)
-- [贡献](#贡献)
 
 ***********
+- [贡献方式](#贡献方式)
+- [贡献者列表](#贡献者列表)
 
-
+************
 
 
 ## 应用程序
@@ -633,7 +634,7 @@
 - [Linux 内核邮件列表归档](https://lkml.org/)
 - [Linux 内核模块编程指南（PDF）](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
-## 贡献
+## 贡献方式
 1. **校对**：你可以参考原文档 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)，帮助校对翻译。比如，你可以在 [issues](https://github.com/ChrisLeeGit/awesome-linux-software-cn/issues) 中提出改进后的翻译结果；或者，你也可以 Fork 到自己的仓库，进行校对和修改，然后提交 Pull Request。
 
 1. **翻译**：由于原始文档 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 会不断地更新，所以你可以在 Fork 后，帮助翻译新添加的内容，并提交 Pull Request。
@@ -646,6 +647,9 @@
     1. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py](https://github.com/ChrisLeeGit/awesome-linux-software-cn/tree/master/auto_sort) 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
     
 1. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。**最后，也希望你能多推荐一些更适合国人使用的应用程序和资料，谢谢！**
+
+## 贡献者列表
+所有贡献人员列表请参见：[CONTRIBUTORS.md](https://github.com/ChrisLeeGit/awesome-linux-software-cn/blob/master/CONTRIBUTORS.md)
 
 
 ## 许可协议
