@@ -102,6 +102,7 @@
 - [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
+- [Franz](http://meetfranz.com/) - Franz 是一款免费的消息应用，集成了多种聊天和消息服务。![Freeware][Freeware Icon] 
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - 包装了 web Skype 的开源应用。[![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但与 XChat 不同的是，它在 Windows 和类 Unix 系统上是完全免费的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi 是一款针对 Windows、Linux、Mac OS X 和 Android 的免费开源的多平台音频、视频会议和即时通讯应用。[![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
