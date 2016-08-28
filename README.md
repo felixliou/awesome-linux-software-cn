@@ -79,6 +79,7 @@
 ************
 
 
+
 ## 应用程序
 
 ### 音频
@@ -103,7 +104,7 @@
 - [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
-- [Franz](http://meetfranz.com/) - Franz 是一款免费的消息应用，集成了多种聊天和消息服务。![Freeware][Freeware Icon] 
+- [Franz](http://meetfranz.com/) - Franz 是一款免费的消息应用，集成了多种聊天和消息服务。![Freeware][Freeware Icon]
 - [GhettoSkype](https://github.com/stanfieldr/ghetto-skype) - 包装了 web Skype 的开源应用。[![Open-Source Software][OSS Icon]](https://github.com/stanfieldr/ghetto-skype) ![Freeware][Freeware Icon]
 - [HexChat](https://hexchat.github.io/) - HexChat 是一款基于 XChat 的 IRC 客户端，但与 XChat 不同的是，它在 Windows 和类 Unix 系统上是完全免费的。[![Open-Source Software][OSS Icon]](https://github.com/hexchat) ![Freeware][Freeware Icon]
 - [Jitsi](https://jitsi.org/) - Jitsi 是一款针对 Windows、Linux、Mac OS X 和 Android 的免费开源的多平台音频、视频会议和即时通讯应用。[![Open-Source Software][OSS Icon]](https://github.com/jitsi) ![Freeware][Freeware Icon]
@@ -311,6 +312,7 @@
 - [Tor](https://www.torproject.org/) - Tor 是一个免费软件和一个开放网络，它能帮助你防御流量分析，这是一种威胁到个人自由和隐私的网络监视形式。![Freeware][Freeware Icon]
 - [Vivaldi](https://vivaldi.com/?lang=en) - 浏览器界的一颗新星，它拥有很多自定义的设置。![Freeware][Freeware Icon]
 - [Yandex](https://browser.yandex.com/desktop/main/) - 快速便捷的浏览器。![Freeware][Freeware Icon]
+- [youtube-dl](https://github.com/rg3/youtube-dl) - YouTube 视频下载神器，是一个 Python 编写的命令行视频下载器，同时支持其它一些视频网站或平台。注意：国内用户若要下载 YouTube 视频，需要给它添加 `--proxy` 参数，指定代理下载。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/rg3/youtube-dl).
 
 ### 办公
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
