@@ -63,9 +63,9 @@
 	
 - [杂项](#杂项)
 - [交流论坛](#交流论坛)
-    - [ArchLinux](#arch-linux)
-    - [openSUSE](#opensuse-1)
-    - [Ubuntu](#ubuntu-1)
+    - [Arch Linux 论坛](#arch-linux-论坛)
+    - [openSUSE 论坛](#opensuse-论坛)
+    - [Ubuntu 论坛](#ubuntu-论坛)
     - [IRC 频道](#irc-频道)
     - [Linux 新闻与应用等](#linux-新闻与应用等)
     - [Reddit](#reddit)
@@ -565,18 +565,18 @@
 
 
 ## 交流论坛
-### Arch Linux
+### Arch Linux 论坛
 
 * [Arch Linux 论坛](https://bbs.archlinux.org/)
 * [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
 
-### openSUSE
-* [openSUSE Forum](https://forums.opensuse.org/forum.php)
+### openSUSE 论坛
+* [openSUSE 论坛](https://forums.opensuse.org/forum.php)
 * [openSUSE 中文论坛](https://forum.suse.org.cn/)
 
-### Ubuntu
+### Ubuntu 论坛
 
-* [Ubuntu Forum](https://ubuntuforums.org/)
+* [Ubuntu 论坛](https://ubuntuforums.org/)
 * [Ask Ubuntu](askubuntu.com/)
 * [Ubuntu 中文论坛](https://forum.ubuntu.org.cn/)
 * [Ubuntu 中文 WiKi](http://wiki.ubuntu.org.cn/Ubuntu%E4%B8%AD%E6%96%87:%E7%A4%BE%E5%8C%BA)
