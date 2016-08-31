@@ -323,6 +323,7 @@
 - [LibreOffice](https://www.libreoffice.org/) - Linux 平台下最佳的办公套件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)
 - [LyX](http://www.lyx.org/) - 成熟的文档编辑器，可以渲染成 LaTeX。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/yihui/lyx)
 - [WPS office](http://wps-community.org/) - Linux 平台下最佳办公套件之一。![Freeware][Freeware Icon]
+- [有道词典](http://cidian.youdao.com/index-linux.html) - 有道词典 Linux 版本，与Windows平台版本的一致界面，清新流畅；同时提供Linux下最为精准的屏幕取词与划词体验。![Freeware][Freeware Icon]
 
 ### 生产力
 - [Alarm Clock](http://alarm-clock.pseudoberries.com/) - Alarm Clock 是 GNOME 下的一款功能丰富的闹钟应用。[![Open-Source Software][OSS Icon]](http://bazaar.launchpad.net/~joh/alarm-clock/trunk/files) ![Freeware][Freeware Icon]
