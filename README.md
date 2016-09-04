@@ -58,12 +58,14 @@
 
 - [配置](#配置)
 	- [ArchLinux](#arch-linux)
+	- [CentOS](#centos)
 	- [openSUSE](#opensuse)
 	- [Ubuntu](#ubuntu)
 	
 - [杂项](#杂项)
 - [交流论坛](#交流论坛)
     - [Arch Linux 论坛](#arch-linux-论坛)
+    - [CentOS 论坛](#centos-论坛)
     - [openSUSE 论坛](#opensuse-论坛)
     - [Ubuntu 论坛](#ubuntu-论坛)
     - [IRC 频道](#irc-频道)
@@ -544,6 +546,14 @@
 - [一般建议](https://wiki.archlinux.org/index.php/General_recommendations)
 - [应用列表](https://wiki.archlinux.org/index.php/List_of_applications)
 
+### CentOS
+- [英文官网](https://www.centos.org/)
+- [关于 CentOS](https://wiki.centos.org/About)
+- [下载系统](https://wiki.centos.org/Download)
+- [帮助手册](https://www.centos.org/docs/)
+- [“奇淫技巧”](https://wiki.centos.org/TipsAndTricks)
+- [FAQ](https://www.centos.org/forums/faq.php?sid=4e6d260284c7936505dcf75564717272)
+
 ### openSUSE
 
 - [openSUSE 是什么](https://www.techopedia.com/definition/28543/opensuse)
@@ -572,6 +582,12 @@
 
 * [Arch Linux 论坛](https://bbs.archlinux.org/)
 * [Arch Linux ARM 论坛](https://archlinuxarm.org/forum/viewforum.php?f=31)
+
+
+### CentOS 论坛
+- [CentOS 论坛](https://www.centos.org/forums/)
+- [CentOS 中文站](http://www.centoscn.com/)
+
 
 ### openSUSE 论坛
 * [openSUSE 论坛](https://forums.opensuse.org/forum.php)
