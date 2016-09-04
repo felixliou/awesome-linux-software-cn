@@ -8,7 +8,7 @@
 ## 介绍
 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
 
-[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。也欢迎你帮助推荐或提些建议！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。欢迎 Star 或 Fork，也期待你的参与和贡献！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
 另外一个中文版本请参见 [这里](https://github.com/alim0x/Awesome-Linux-Software-zh_CN)。之所以会出现两份翻译版本，主要是因为在开始前没有非常仔细地搜索 GitHub 以查找类似项目（其实我在翻译完成前后都找了下，但是确实没有发现那个项目）。**需要注意的是，该中文版本是基于原英文版本翻译的，但是更主要的是想在文档中添加一些更适合国人使用的应用或中文阅读资料。当然，这也需要更多国内的 Linux 爱好者帮助完善，谢谢！**
 
