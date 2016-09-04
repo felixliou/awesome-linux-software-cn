@@ -41,5 +41,4 @@
 34. [alim0x](https://github.com/alim0x)
 35. [Spacebody](https://github.com/Spacebody)
 36. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
-...
 
