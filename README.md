@@ -603,7 +603,7 @@
 
 ### IRC 频道
 
-* [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
+* [ubuntu](https://webchat.freenode.net/?channels=ubuntu)
 
 ### Linux 新闻与应用等
 
